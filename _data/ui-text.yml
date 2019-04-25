@@ -1,6 +1,6 @@
 # User interface text and labels
 
-# English (default)
+# English
 # -----------------
 en: &DEFAULT_EN
   comments_label             : "Leave a comment"
@@ -66,7 +66,7 @@ fr-BE:
 fr-CH:
   <<: *DEFAULT_FR
 
-# Turkish
+# Turkish (default)
 # -------
 tr: &DEFAULT_TR
   comments_label             : "Yorum yapın"
