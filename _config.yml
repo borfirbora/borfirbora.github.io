@@ -126,7 +126,7 @@ share-links-active:
 
 # Staticman support
 staticman:
-  repository : borfirbora.deneme # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : borfirbora/borfirbora.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : "master"  # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
@@ -151,7 +151,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europ/Istanbul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
