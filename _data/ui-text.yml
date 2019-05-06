@@ -76,7 +76,7 @@ tr: &DEFAULT_TR
   comment_form_md_info       : "Markdown desteklenmektedir."
   comment_form_name_label    : "Adınız"
   comment_form_email_label   : "Email adresiniz"
-  comment_form_website_label : "Websiteniz (opsiyonel)"
+  comment_form_website_label : "Web siteniz (opsiyonel)"
   comment_btn_submit         : "Yorum Yap"
   comment_btn_submitted      : "Gönderildi"
   comment_success_msg        : "Yorumunuz için teşekkürler! Yorumunuz onaylandıktan sonra sitede gösterilecektir."
