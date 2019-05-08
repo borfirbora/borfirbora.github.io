@@ -9,6 +9,6 @@ Başka yerde yayımlandığı tespit edilen yazılar hakkında:
 2. Orjinal Web sitesinde ifşa edilecek;
 3. Her türlü yasal süreçler yürürlüğe konulacaktır.
 
-=====
+----------
 
 [Bora](mailto:borafirlangec@gmail.com) [Fırlangeç](https://www.facebook.com/bora.firlangec)
