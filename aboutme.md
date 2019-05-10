@@ -27,3 +27,6 @@ Müzik yazılımları olarak da sırasıyla:
 
 ### Ama Hepsinden Önemlisi: **REAPER**
 
+Nereden baksanız 2009 yılından beri müzik yazılımlarıyla uğraşıyorum ve o kadar farklı çabalarla bir şeyler yapmaya çalışıyorum ki artık yorulma noktasına geldiğimi hissetmeye başladım. Öyle bir anda karşıma çıktı ki **REAPER**, **Neden bunca zamandır kullanmıyorum?** diye defalarca sordurdu kendime.
+
+Reaper ile alakalı bir anlatım seti hazırlamaya karar verdim hemen. Öğrendiklerimi ve öğreneceklerimi hemen aktarmalı, insanlara fayda sağlamalıydım bir an önce.
