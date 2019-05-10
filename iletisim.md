@@ -1,7 +1,7 @@
 ---
 layout: page
 title: İletişim
-permalink: "iletisim"
+permalink: iletisim
 ---
 
 | ![Bora Fırlangeç](https://denemedefteri.com/bf.jpeg) | |
