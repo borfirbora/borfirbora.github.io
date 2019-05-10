@@ -18,5 +18,5 @@ Bir Müzik Tutkunu olarak ben, kaval, piano ve vurmalı sazların bir çoğunu �
 - Radyo programlarını çok seviyor ve büyük bir tutku besliyorum. Bu yüzden de **Her çarşamba saat 22:00 ile 24:00 arasında** [Tarz Radyo](https://www.tarzradyo.net/)'da **BORAYLA ŞİİR GİBİ** isimli duygusal bir program yapıyorum.
 - Web tasarım ile ilgili kendimi sürekli geliştiriyor ve sizlerden gelecek bildirimlerle bu alanlarda da sizlere hizmet verebilmeyi iple çekiyorum.
 - [Bora FIRLANGEÇ](https://www.youtube.com/borafirlangec) isimli bir **Youtube** kanalım var ve yaptığım müzikleri, şiirleri burada sizlerle paylaşıyorum.
-- []Baba Programlar(https://www.youtube.com/channel/UCW1tmhsmGthcGuei-XjPzHQ) isimli **Youtube** kanalımda ise kullanışlı ve işe yarayabilecek programları ve eğlenceli oyunları, kullanımlarıyla birlikte siz değerli takipçilerimle buluşturuyorum.
+- [Baba Programlar](https://www.youtube.com/channel/UCW1tmhsmGthcGuei-XjPzHQ) isimli **Youtube** kanalımda ise kullanışlı ve işe yarayabilecek programları ve eğlenceli oyunları, kullanımlarıyla birlikte siz değerli takipçilerimle buluşturuyorum.
 - [Wattpad](https://www.wattpad.com/borafirlangec) üzerinde de hikayelerimi paylaşıyor ve bu alanda da kendimi geliştirmeye çalışıyorum.
