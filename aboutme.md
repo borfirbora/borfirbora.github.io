@@ -4,29 +4,19 @@ title: Hakkımda
 permalink: hakkimda
 ---
 
-Ben Bora FIRLANGEÇ. 21 Haziran 1995 tarihinde İzmir'in Konak ilçesinde dünyaya geldim. Altı aylıkken geçirdiğim kaza ve on bir aylıkken geçirdiğim havele sonucunda görme yetimi kaybettim.
+Ben **Bora FIRLANGEÇ**. 21 Haziran 1995 tarihinde İzmir'de dünyaya geldim. On bir aylıkken geçirdiğim bir havale sonucunda gözlerimin ikisini de kaybettim. Biraz fırlama bir çocukluk geçirdikten ve birkaç kafa göz yardıktan sonra ilk öğrenimimi **Aşık Veysel Görme Engelliler İlköğretim Okulu**'nda gördüm.
 
-Yedi yaşımda **Aşık Veysel Görme Engelliler İlköğretim Okulu'na** başladım. Sekiz sene burada yatılı olarak okuduktan sonra liseyi de yatılı olarak **İzmir Karabağlar Cumhuriyet Lisesi'nde** okudum.
+Liseyi **Karabağlar Cumhuriyet Lisesi**'nde yatılı olarak okudum ve 2014 yılında mezun oldum.
 
-Bilgisayarla görme engelliler okulunda ve yedinci sınıfta tanıştım. Müzik yazılımlarıyla ise sekizinci sınıfta müzik öğretmenim **Mustafa Gençyılmaz** sayesinde...
+## Neler Yapıyorum?
 
-Kendimi Web tasarım ve Ofis programları konusunda geliştirdim ve her ikisinde de detaylı çalışmalar yürütebiliyorum.
+Bir Müzik Tutkunu olarak ben, kaval, piano ve vurmalı sazların bir çoğunu çalabiliyorum. Bilgisayar meraklısı olarak da Web tasarım/programlama yapabiliyor ve masaüstü yazılımcılıkla ilgileniyorum.
 
-## Web Tasarım
+## Şu An Yürüttüğüm Projelerim Neler?
 
-Lise ikinci sınıftan itibaren merak saldığım **html**, **php** ve **css** yordamlarını kendi çabamla, herhangi bir eğitim almadan öğrendim. Bir çok Web tasarım işi yaptım ve kendimi bu alanda geliştirmeye özen gösteriyorum.
-
-## Müzik Yazılımları
-
-Müzik yazılımları olarak da sırasıyla:
-
-- [Cakewalk Pro Audio 9.03](https://www.cakewalk.com) yazılımıyla başladım müzik öğretmenim sayın **Mustafa Gençyılmaz** sayesinde.
-- [Sound Forge](https://www.sony.com/) yazılımına devam ettim ve gerçekten **İşte bu** dediğim bir yazılımdı. [Youtube](https://www.youtube.com/borafirlangec) kanalımdaki bir çok şiirim Sound Forge yazılımıyla montajlanmıştır.
-- [Cakewalk Sonar](https://www.cakewalk.com/) yazılımıyla devam ettim müzik yazılımlarına ve stüdyo kalitesindeki ilk çalışmamı bu yazılımla gerçekleştirdim. Gerçi, Cakewalk Pro Audio yazılımıyla bir adet rap kaydetmiştim ama bunu da yayınlamıyorum cümle aleme rezil olmayalım diye.
-- [Adobe Audition](https://www.adobe.com/), [GoldWave](https://www.goldwave.com/) ve daha bir sürü yazılımı ara ara kullandım ve hepsinden faydalanabileceğim bir yan bulmayı başardım.
-
-### Ama Hepsinden Önemlisi: **REAPER**
-
-Nereden baksanız 2009 yılından beri müzik yazılımlarıyla uğraşıyorum ve o kadar farklı çabalarla bir şeyler yapmaya çalışıyorum ki artık yorulma noktasına geldiğimi hissetmeye başladım. Öyle bir anda karşıma çıktı ki **REAPER**, **Neden bunca zamandır kullanmıyorum?** diye defalarca sordurdu kendime.
-
-Reaper ile alakalı bir anlatım seti hazırlamaya karar verdim hemen. Öğrendiklerimi ve öğreneceklerimi hemen aktarmalı, insanlara fayda sağlamalıydım bir an önce.
+- [Udemy](https://www.udemy.com/) üzerinde en sevdiğim ve kullanmaktan büyük bir keyif aldığım stüdyo yazılımı olan **REAPER*'ı anlattığım bir eğitim setim var. Bu sete ulaşmak ve satın almak için [REAPER EĞİTİMİ](https://www.udemy.com/reaper-egitimi) bağlantısına tıklayabilirsin.
+- Radyo programlarını çok seviyor ve büyük bir tutku besliyorum. Bu yüzden de **Her çarşamba saat 22:00 ile 24:00 arasında** [Tarz Radyo](https://www.tarzradyo.net/)'da **BORAYLA ŞİİR GİBİ** isimli duygusal bir program yapıyorum.
+- Web tasarım ile ilgili kendimi sürekli geliştiriyor ve sizlerden gelecek bildirimlerle bu alanlarda da sizlere hizmet verebilmeyi iple çekiyorum.
+- [Bora FIRLANGEÇ](https://www.youtube.com/borafirlangec) isimli bir **Youtube** kanalım var ve yaptığım müzikleri, şiirleri burada sizlerle paylaşıyorum.
+- []Baba Programlar(https://www.youtube.com/channel/UCW1tmhsmGthcGuei-XjPzHQ) isimli **Youtube** kanalımda ise kullanışlı ve işe yarayabilecek programları ve eğlenceli oyunları, kullanımlarıyla birlikte siz değerli takipçilerimle buluşturuyorum.
+- [Wattpad](https://www.wattpad.com/borafirlangec) üzerinde de hikayelerimi paylaşıyor ve bu alanda da kendimi geliştirmeye çalışıyorum.
