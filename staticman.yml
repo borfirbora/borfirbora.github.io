@@ -2,7 +2,7 @@ iletisim:
   allowedFields: ["isim","eposta","baslik","mesaj",]
   branch: "master"
   commitMessage: "Yeni İletişim Eklendi"
-  filename: "iletisim - {@timestamp}"
+  filename: "iletisim - {@date:DD-MM-YYYY}-{fields.isim}"
   format: "yaml"
   moderation: false
   name: "denemedefteri.com"
