@@ -1,7 +1,7 @@
 iletisim:
   allowedFields: ["isim","eposta","baslik","mesaj",]
   branch: "master"
-  commitMessage: "Yeni İletişim Eklendi"
+  commitMessage: "{fields.isim} kişisinden, {fields.baslik} konulu bir mesaj alındı!"
   filename: "iletisim - {@date:DD-MM-YYYY}-{fields.isim}"
   format: "yaml"
   moderation: false
