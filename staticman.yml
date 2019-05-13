@@ -1,3 +1,14 @@
+iletisim:
+  allowedFields: ["isim","eposta","baslik","mesaj",]
+  branch: "master"
+  commitMessage: "Yeni İletişim Eklendi"
+  filename: "iletisim - {@timestamp}"
+  format: "yaml"
+  moderation: false
+  name: "denemedefteri.com"
+  path: "iletisim"
+  requiredFields: ["isim","eposta","baslik","mesaj",]
+
 # Name of the property. You can have multiple properties with completely
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
