@@ -1,0 +1,16 @@
+---
+title: İletişim
+layout: page
+permalink: "iletisim"
+---
+
+<p>Aşağıdaki formu kullanarak benimle iletişim kurabilir, soru ve sorunlarınızı direk bana iletebilirsiniz.</p>
+
+<form method="POST" action="https://staticman3.herokuapp.com/v3/entry/github/borfirbora/borfirbora.github.io/master/iletisim">
+  <input name="options[redirect]" type="hidden" value="https://denemedefteri.com/basarili">
+      <label>İsminiz: <input name="fields[isim]" type="text"></label>
+  <label>E-posta Adresiniz: <input name="fields[eposta]" type="email"></label>
+  <label>Konu Başlığı: <input name="fields[baslik]" type="text"></label>
+  <label>Mesajınız: <textarea name="fields[mesaj]"></textarea></label>
+    <button type="submit">Gönder</button>
+</form>
