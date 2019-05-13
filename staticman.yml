@@ -2,12 +2,12 @@ iletisim:
   allowedFields: ["isim","eposta","baslik","mesaj",]
   branch: "master"
   commitMessage: "{fields.isim} kişisinden, {fields.baslik} konulu bir mesaj alındı!"
-  filename: "iletisim - {@date:DD-MM-YYYY}-{fields.isim}"
+  filename: "iletisim - {@date:DD-MM-YYYY} - {fields.isim}"
   format: "yaml"
-  moderation: true
+  moderation: false
   pullRequestBody: "[{fields.isim}]({fields.eposta}), {field.baslik} konulu mesajını yayımladı:\n\n{fields.mesaj}"
   name: "denemedefteri.com"
-  path: "iletisim"
+  path: "_data/iletisim"
   requiredFields: ["isim","eposta","baslik","mesaj",]
 
 # Name of the property. You can have multiple properties with completely
