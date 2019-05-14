@@ -7,9 +7,9 @@ permalink: liste
 {% if site.data.iletisim[]  %}
 {% assign iletisim = site.data.iletisim[] %}
 {% for mesaj in iletisim %}
-<h2><a href="mailto:{{ mesaj[eposta] }}">{{ mesaj[isim] }}</a></h2>
-<h3>{{ mesaj[baslik] }}</h3>
-<blockquote>{{ mesaj[mesaj] }}</blockquote
+<h2><a href="mailto:{{ mesaj[1].eposta }}">{{ mesaj[1].isim }}</a></h2>
+<h3>{{ mesaj[1].baslik }}</h3>
+<blockquote>{{ mesaj[1].mesaj }}</blockquote
 {% endfor %}
 {% else %}
 <p>İletişim mesajı yok!</p>
