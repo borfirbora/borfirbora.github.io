@@ -2,7 +2,7 @@ iletisim:
   allowedFields: ["isim","eposta","baslik","mesaj",]
   branch: "master"
   commitMessage: "{fields.isim} kişisinden, {fields.baslik} konulu bir mesaj alındı!"
-  filename: "iletisim - {@date:DD-MM-YYYY} - {fields.isim}"
+  filename: "{@timestamp}"
   format: "yaml"
   moderation: false
   pullRequestBody: "[{fields.isim}]({fields.eposta}), {field.baslik} konulu mesajını yayımladı:\n\n{fields.mesaj}"
