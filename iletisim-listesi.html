@@ -8,8 +8,11 @@ permalink: liste
 {% assign iletisim = site.data.iletisim[] %}
 {% for mesaj in iletisim %}
 <h2>{{ mesaj[1].baslik }}</h2>
+<p>{{ mesaj[1].isim }}</p>
 <blockquote>{{ mesaj[1].mesaj }}</blockquote>
-<p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}">{{  mesaj[1].baslik }} başlıklı mesajı yanıtla</a></p>
+<p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}&body=
+  
+  {{ mesaj[1].mesaj }}">{{  mesaj[1].isim }} kişisini yanıtla</a></p>
 <hr />
 {% endfor %}
 {% else %}
