@@ -8,7 +8,7 @@ permalink: liste
 {% assign iletisim = site.data.iletisim[] %}
 {% for mesaj in iletisim %}
 <h2>{{ mesaj[1].baslik }}</h2>
-<p>{{ mesaj[1].isim }}</p>
+<p>Yazan: {{ mesaj[1].isim }}</p>
 <blockquote><pre>{{ mesaj[1].mesaj }}</pre></blockquote>
 <p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}&body=<br />
   <hr />
