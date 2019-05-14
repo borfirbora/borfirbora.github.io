@@ -11,7 +11,7 @@ permalink: liste
 <p>Yazan: {{ mesaj[1].isim }}</p>
 <blockquote><pre>{{ mesaj[1].mesaj }}</pre></blockquote>
 <p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}&body=<br />
-  <hr />
+  <br />
   {{ mesaj[1].mesaj }}">{{  mesaj[1].isim }} kişisini yanıtla</a></p>
 <hr />
 {% endfor %}
