@@ -4,6 +4,14 @@ layout: page
 permalink: liste
 ---
 
-{% if site.data.iletisim[] %}
-<p>forum bilgileri girilmiş</p>
+{% if site.data.iletisim[]  %}
+{% assign iletisim = site.data.iletisim[] %}
+{% for mesaj in iletisim %}
+<h2><a href="mailto:{{ mesaj[eposta] }}">{{ mesaj[isim] }}</a></h2>
+<h3>{{ mesaj[baslik] }}</h3>
+<blockquote>{{ mesaj[mesaj] }}</blockquote
+{% endfor %}
+{% elseif %}
+<p>İletişim mesajı yok!</p>
+
 {% endif %}
