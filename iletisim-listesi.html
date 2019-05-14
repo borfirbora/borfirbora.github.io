@@ -10,7 +10,9 @@ permalink: liste
 <h2>{{ mesaj[1].baslik }}</h2>
 <p>{{ mesaj[1].isim }}</p>
 <blockquote><pre>{{ mesaj[1].mesaj }}</pre></blockquote>
-<p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}&body=zhr />{{ mesaj[1].mesaj }}">{{  mesaj[1].isim }} kişisini yanıtla</a></p>
+<p><a href="mailto:{{ mesaj[1].eposta }}?subject={{ mesaj[1].baslik }}&body=<br />
+  <hr />
+  {{ mesaj[1].mesaj }}">{{  mesaj[1].isim }} kişisini yanıtla</a></p>
 <hr />
 {% endfor %}
 {% else %}
