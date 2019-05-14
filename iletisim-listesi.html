@@ -6,7 +6,7 @@ permalink: liste
 
 {% if site.data.iletisim[]  %}
 {% assign iletisim = site.data.iletisim[] %}
-{% for mesaj in iletisim %}
+{% for mesaj in iletisim reversed %}
 <h2><a href="mailto:{{ mesaj[1].eposta }}">{{ mesaj[1].isim }}</a></h2>
 <h3>{{ mesaj[1].baslik }}</h3>
 <blockquote>{{ mesaj[1].mesaj }}</blockquote>
