@@ -71,7 +71,7 @@ fr-CH:
 tr: &DEFAULT_TR
   comments_label             : "Yorum yapın"
   comments_title             : "Yorumlar"
-  comment_form_info          : "Email adresiniz gösterilmeyecektir. Zorunlu alanlar işaretlenmiştir"
+  comment_form_info          : "Email adresiniz gösterilmeyecektir. Doldurulması zorunlu alan işareti:"
   comment_form_comment_label : "Yorumunuz"
   comment_form_md_info       : "Markdown desteklenmektedir."
   comment_form_name_label    : "Adınız"
