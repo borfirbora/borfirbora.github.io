@@ -41,7 +41,7 @@ use-site-title: true
 
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
-      Kategori(ler):
+      Kategori:
       {% if site.link-tags %}
       {% for tag in post.tags %}
       <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
