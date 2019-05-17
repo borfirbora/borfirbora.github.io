@@ -31,6 +31,8 @@ layout: base
         </div>
       {% endif %}
 
+            {{ page.content | number_of_words | plus: 250 | divided_by: 180 | append: " dakika okuma süresi" }}
+    
       <article role="main" class="blog-post">
         {{ content }}
       </article>
