@@ -3,7 +3,6 @@ title: Seviyorsunuz değil mi?
 tags: [kişisel gelişim]
 ---
 
-
 İnsanlar genellikle "Benim evlilikle ne işim olur", "Bizi bulmaz şöyle evlenilecek bir kız/adam" gibi önyargılarla kendilerini sevgiden uzak tutuyor ve korunduklarını sanıyorlar. Halbuki sevgi, korunulacak bir şey değildir. Tam tersine sevgi, ne kadar erken ve ne kadar çok türüyle karşılaşılırsa o kadar insanı olgunlaştıran bir duygudur. Gerçek sevginin ne zaman, nerede ve nasıl kişinin karşısına çıkacağını kestirmek de, yaşadığımız duygunun gerçek sevgi olup olmadığını saptamak da zordur.
 
 Birinci yargıya katılabilirim aslında. Gerçek sevginin insanın şu anda karşısına çıkabileceği gibi, çok sonraları çıkabilir ya da önceden de çıkmış olabilir ve siz belki de farkına bile varmamışsınızdır. Ama ikinci yargı, aslında kişinin o duyguyu ne kadar yoğun yaşadığıyla alakalıdır ve bu çoğu zaman bir anlık bir çarpıntıyla kendisini belli eder. Bir sevginin basit bir ilgi mi, gerçek bir sevgi mi yoksa kutsal bir aşk mı olduğu; o duyguyla karşı karşıya kalan sizlerin adlandırmasıyla ve şekillendirmesiyle belli olur çoğu kez. Bunun dışında da genellikle sevginin konumu ve rütbesi, onu size sunan kişi tarafından açıkça gösterilir. Böyle bir durumda sevginin niteliğini anlamak çok kolaydır çünkü karşınızdaki, sizi nasıl sevdiğini bir şekilde belli eder.
@@ -20,6 +19,10 @@ Bu durumda karşınızdaki insanın temelde iki farklı tutumu olur.
 2. Kendisine gösterdiğiniz tutum ve davranışlardan ona karşı sevgi hissettiğinizi anlar ve eğer kendisinde de size karşı bir sevgi varsa bunu da size hissettirir.
 
 Sevgi denen varlığın yorumlanması ve karşı tarafa hissettirilebilmesi için kendimizde birtakım farklılıklara gidebilir ya da kendimizi olduğu gibi gösterebiliriz. Dikkat etmemiz gereken asıl noktalara biraz değinelim:
+
+-   [Doğal Olun](#doğal-olun)
+-   [Beklentiniz Olmasın](#beklentiniz-olmasın)
+-   [bitebilir](#bitebilir)
 
 ## Doğal Olun
 
