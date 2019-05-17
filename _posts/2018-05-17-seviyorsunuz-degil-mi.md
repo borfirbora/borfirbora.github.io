@@ -52,11 +52,11 @@ Beklentilerin en önemli özelliği egoistliğe giden yollardan biri olmasıdır
 
 Ben merkezcilikten kurtulabilmenin en basit yolu, karşınızdaki insanın da kendi duyguları, düşünceleri, yaşam tarzı, zevkleri ve korkuları olduğunu bilerek adım atmaktır.
 
-Beklentileriniz ilişkinizi geliştirmek ve mutluluğunuzu arttırmak için gelişmemişse bunlar ilişkiyi bitirebilir ve yıpratıcıdır. Beklentilerinizi çevrenize göre değil, ikili ilişkinizdeki ihtiyaççlarınıza göre geliştirmelisiniz.
+Beklentileriniz ilişkinizi geliştirmek ve mutluluğunuzu arttırmak için gelişmemişse bunlar ilişkiyi bitirebilir ve yıpratıcıdır. Beklentilerinizi çevrenize göre değil, ikili ilişkinizdeki ihtiyaçlarınıza göre geliştirmelisiniz.
 
 ## bitebilir
 
-Sonsuz zannettiğiniz sevginizin bittiğini hissettiğiniz o anlaşılma duyguyu yaşayanlar mutlaka olmuştur. Aslında hissettiğimiz duygu sevgi değil, açlıktır ve manevi açlığımız sona erdiğinde biz, sevgimizin bittiğini hissederiz.
+Sonsuz zannettiğiniz sevginizin bittiğini hissettiğiniz o anlaşılmaz duyguyu yaşayanlar mutlaka olmuştur. Aslında hissettiğimiz duygu sevgi değil, açlıktır ve manevi açlığımız sona erdiğinde biz, sevgimizin bittiğini hissederiz.
 
 Gerçek sevgi kendisini sürekli tazeler ve güçlendirir. Eğer sevginizin bittiği hissine kapıldıysanız, şu sorulara cevaplar bulmanız gerekiyor:
 
