@@ -1,7 +1,7 @@
 ---
 title: YAML listesi
 layout: minimal
-permalink: "yml/"
+permalink: yml
 ---
 
 Parameter   | Description
