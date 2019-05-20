@@ -18,7 +18,7 @@ tags: [teknoloji]
 
 ## Sıradan Kullanıyoruz {#toc1}
 
-Telefonlarımızı elimize aldığımızda, bilgisayarlarımızın başına oturduğumuzda dikkat ederseniz sürekli aynı şeylerle uğraşıyoruz. Facebook, Twitter, İnstagram gibi sosyal mecralarda vakit öldürüyor, WhatsApp gibi  anlık mesajlaşma uygulamalarında verimsiz işler yapıyoruz. Bu konuda bana hemen karşı cıkacaksınız ve savınız da şuna benzer bir şey olacak:
+Telefonlarımızı elimize aldığımızda, bilgisayarlarımızın başına oturduğumuzda dikkat ederseniz sürekli aynı şeylerle uğraşıyoruz. Facebook, Twitter, İnstagram gibi sosyal mecralarda vakit öldürüyor, WhatsApp gibi  anlık mesajlaşma uygulamalarında verimsiz işler yapıyoruz. Bu konuda bana hemen karşı çıkacaksınız ve savınız da şuna benzer bir şey olacak:
 
 > Ben WhatsApp uygulamasını sadece aile bireylerimle görüşmek için kullanıyorum. Orada zaman öldürdüğüm falan yok.
 
@@ -36,7 +36,7 @@ Kişisel tecrübelerimin bana öğrettiği en önemli şey, gelişmenin ve geli�
 
 Şu anda bu yazıyı okuduğunuz **Deneme Defteri** isimli Blog, önceleri WordPress altyapısını kullanıyordu. Daha sonra artık WordPress benim için eski, hantal gelmeye başladı ve teknolojik olarak daha yeni, güvenilir ve sürdürülebilir bir altyapı arayışına girdim. Buldum ve şu anda bu yazıyı o altyapıya sahip bir Blog'tan okuyorsunuz.
 
-Demek istediğim, teknoloji her zaman ilerler ve bunu hızını sürekli arttırarak yapar. Büyük bir basınçla akan bu şelalede akınttıya kapılmak ve sürüklenmek çok kolaydır. Asıl yapılması gereken ve zor olan şey ise, bu yoğun akıntıya yön verebilecek gücü bulmak ve o gücü kullanmaktır.
+Demek istediğim, teknoloji her zaman ilerler ve bunu hızını sürekli arttırarak yapar. Büyük bir basınçla akan bu şelalede akıntıya kapılmak ve sürüklenmek çok kolaydır. Asıl yapılması gereken ve zor olan şey ise, bu yoğun akıntıya yön verebilecek gücü bulmak ve o gücü kullanmaktır.
 
 ## Rekabet Etmeliyiz {#toc3}
 
