@@ -8,10 +8,12 @@ tags: [teknoloji]
 İnsanlar artık bir adım öteye geçerek teknolojiyi kullanmaktan çok onu nasıl geliştirebileceklerini tartışıyorlar. Bu alanda da herkes kendi bilgi birikimince teknoloji okyanusuna yeni damlalar eklemeye  devam ediyor. Peki biz bu konuda neler yapıyoruz?
 
 <nav title="İçindekiler">
--   [Sıradan Kullanıyoruz](#toc1)
--   [Farklı Bakmalıyız](#toc2)
--   [Rekabet Etmeliyiz](#toc3)
--   [Gelişin, Geliştirin](#toc4)
+<ul>
+<li><a href="#toc1">Sıradan Kullanıyoruz</a></li>
+<li><a href="#toc2">Farklı Bakmalıyız</a></li>
+<li><a href="#toc3">Rekabet Etmeliyiz</a></li>
+<li><a href="#toc4">Gelişin, Geliştirin</a></li>
+</ul>
 </nav>
 
 ## Sıradan Kullanıyoruz {#toc1}
