@@ -1,0 +1,15 @@
+---
+title: ara
+layout: minimal
+permalink: ara
+---
+
+<form name="google" action="http://www.google.com/custom" method="get" target="ara">
+<input type=hidden name=sitesearch value="denemedefteri.com">
+<INPUT type=hidden name=sa VALUE="Google Search">
+<input type=hidden name=domains value="denemedefteri.com">
+<input type="text" name="q" size="20" length="64" class="search" value="" style="font-family: Verdana; font-size: 10px; border: 1px solid #C0C0C0">
+<input type="submit" class="Arama" value="Arama" style="font-family: Verdana; font-size: 10px; border: 1px solid #C0C0C0">
+</form>
+
+<frame name="ara"></frame
