@@ -5,7 +5,9 @@ iletisim:
   filename: "{@timestamp}"
   format: "yaml"
   moderation: false
-  pullRequestBody: "[{fields.isim}]({fields.eposta}), {field.baslik} konulu mesajını yayımladı:\n\n{fields.mesaj}"
+  pullRequestBody: "{fields.isim} ({fields.eposta}), {fields.baslik} konulu mesajını yayımladı:
+  
+  {fields.mesaj}"
   name: "denemedefteri.com"
   path: "_data/iletisim"
   requiredFields: ["isim","eposta","baslik","mesaj",]
