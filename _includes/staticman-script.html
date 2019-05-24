@@ -11,7 +11,8 @@
 
     $('#new_comment').submit(function () {
       var form = this;
-alert("Yorumunuz gönderilecek. Sonucu bildirilene kadar lütfen bekleyin!");
+form.getElementByTagName(button).disabled=true;
+      alert("Yorumunuz gönderilecek. Sonucu bildirilene kadar lütfen bekleyin!");
       $(form).addClass('disabled');
 
       $.ajax({
