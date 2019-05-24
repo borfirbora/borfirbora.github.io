@@ -12,8 +12,8 @@
     $('#new_comment').submit(function () {
       var form = this;
       alert("Yorumunuz gönderilecek. Sonucu bildirilene kadar lütfen bekleyin!");
+document.getElementById("comment-form-submit").disabled = true;
       $(form).addClass('disabled');
-
       $.ajax({
         type: $(this).attr('method'),
         url: $(this).attr('action'),
