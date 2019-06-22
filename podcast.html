@@ -6,9 +6,7 @@ subtitle: Teknoloji ve Kültür Adına Her Şey
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if !post.gizle %}
-{% continue %}
-{% endif %}
+{% if post.gizle %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -55,7 +53,10 @@ subtitle: Teknoloji ve Kültür Adına Her Şey
     {% endif %}
 
    </article>
-    	{% endfor %}
+    	{% else %}
+		{% continue %}
+{% endif %}
+		{% endfor %}
 	</div>
 
 {% if paginator.total_pages > 1 %}
