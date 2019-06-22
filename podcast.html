@@ -6,7 +6,7 @@ subtitle: Teknoloji ve Kültür Adına Her Şey
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if post.categories.podcast %}
+{% if post.categories != 'podcast' %}
 	{% continue %}
 	{%  endiff%}
 	<article class="post-preview">
