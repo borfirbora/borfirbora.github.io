@@ -9,7 +9,7 @@ episodeType: full # full | trailer | bonus
 explicit: false # true | false
 audio: https://sample.net/audio.opus
 length: 3927 # in seconds
-gizle: true
+goster: false
 ---
 
 This is **Episode Notes**.
