@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Bora Fırlangeç PodCast
-subtitle: Teknoloji ve Kültür Adına Her Şey
+title: deneme defteri
+subtitle: İki Kapak Arasındaki Yaldızlı Yazılar
+use-site-title: true
 ---
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if post.categories != 'podcast' %}
-	{% continue %}
-	{%  endiff%}
+{% if !post.gizle %}
+{% continue %}
+{% endif %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -55,7 +56,7 @@ subtitle: Teknoloji ve Kültür Adına Her Şey
     {% endif %}
 
    </article>
-    	 		{% endfor %}
+    	{% endfor %}
 	</div>
 
 {% if paginator.total_pages > 1 %}
