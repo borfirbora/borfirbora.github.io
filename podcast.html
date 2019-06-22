@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Bora Fırlangeç PodCast
-subtitle: Kültür ve Teknoloji Adına Her Şey
+subtitle: Teknoloji ve Kültür Adına Her Şey
 ---
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if post.gizle== true %}
+{% if !post.gizle %}
+{% continue %}
+{% endif %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -53,10 +55,7 @@ subtitle: Kültür ve Teknoloji Adına Her Şey
     {% endif %}
 
    </article>
-    			{% else %}
-{% continue %}
-				{% endif %}
-		{% endfor %}
+    	{% endfor %}
 	</div>
 
 {% if paginator.total_pages > 1 %}
