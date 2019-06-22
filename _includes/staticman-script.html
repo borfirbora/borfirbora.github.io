@@ -11,9 +11,9 @@
 
     $('#new_comment').submit(function () {
       var form = this;
-
+      alert("Yorumunuz gönderilecek. Sonucu bildirilene kadar lütfen bekleyin!");
+document.getElementById("comment-form-submit").disabled = true;
       $(form).addClass('disabled');
-
       $.ajax({
         type: $(this).attr('method'),
         url: $(this).attr('action'),
@@ -23,14 +23,14 @@
           $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submitted | default: "Submitted" }}');
           $('.page__comments-form .js-notice').removeClass('notice--danger');
           $('.page__comments-form .js-notice').addClass('notice--success');
-          showAlert('{{ site.data.ui-text[site.locale].comment_success_msg | default: "Thanks for your comment! It will show on the site once it has been approved." }}');
+          alert('{{ site.data.ui-text[site.locale].comment_success_msg | default: "Thanks for your comment! It will show on the site once it has been approved." }}');
         },
         error: function (err) {
           console.log(err);
           $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submit  | default: "Submit Comment" }}');
           $('.page__comments-form .js-notice').removeClass('notice--success');
           $('.page__comments-form .js-notice').addClass('notice--danger');
-          showAlert('{{ site.data.ui-text[site.locale].comment_error_msg | default: "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again." }}');
+          alert('{{ site.data.ui-text[site.locale].comment_error_msg | default: "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again." }}');
           $(form).removeClass('disabled');
         }
       });
