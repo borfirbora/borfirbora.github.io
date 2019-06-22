@@ -7,7 +7,7 @@ use-site-title: true
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if !post.gizle %}
+{% if post.gizle == false %}
 {% continue %}
 {% endif %}
 	<article class="post-preview">
