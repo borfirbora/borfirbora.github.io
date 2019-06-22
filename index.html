@@ -6,8 +6,8 @@ use-site-title: true
 ---
 
 <div class="posts-list">
+  {% if post.categories != 'podcast' %}
   {% for post in paginator.posts %}
-{% if post.categories != 'podcast' %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -54,9 +54,9 @@ use-site-title: true
     {% endif %}
 
    </article>
-  {% endif %}
-  {% endfor %}
-</div>
+    {% endfor %}
+{% endif %}
+	</div>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
