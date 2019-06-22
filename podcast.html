@@ -7,9 +7,7 @@ use-site-title: true
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-{% if post.gizle == false %}
-{% continue %}
-{% endif %}
+{% if post.gizle %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -56,7 +54,10 @@ use-site-title: true
     {% endif %}
 
    </article>
-    	{% endfor %}
+    	{% else %}
+		{% continue %}
+{% endif %}
+		{% endfor %}
 	</div>
 
 {% if paginator.total_pages > 1 %}
