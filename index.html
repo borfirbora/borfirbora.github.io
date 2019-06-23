@@ -7,11 +7,14 @@ use-site-title: true
 
 <div class="posts-list">
     {% for post in paginator.posts %}
+	{% if page.categories.podcast %}
+	{% continue %}
+	{% endif %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{% if post.gizle %}
-{{ site.podcast.title }}: Sezon {{ post.season }} Bölüm {{ post.episode }} - 
-{% endif %} {{ post.title }}</h2>
+	  <h2 class="post-title">
+	  {{ post.title }}
+	  </h2>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
