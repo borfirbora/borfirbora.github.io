@@ -6,7 +6,7 @@ subtitle: İki Kapak Arasındaki Yaldızlı Yazılar
 
 <div class="posts-list">
     {% for post in paginator.posts %}
-	{% if post.gizle %}
+	{% if post.goster %}
 {% continue %}
 {% endif %}
 	<article class="post-preview">
