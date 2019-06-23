@@ -1,5 +1,5 @@
----
-layout: page
+﻿---
+layout: base
 title: deneme defteri
 subtitle: İki Kapak Arasındaki Yaldızlı Yazılar
 ---
