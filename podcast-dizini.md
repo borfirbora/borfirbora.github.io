@@ -8,5 +8,13 @@ title: PodCast Dizini
 
 {% for pc in site.categories.podcast %}
 <h1><a href="{{ pc.url | absolute_url }}">{{ pc.title }}</a></h1>
-
+<ul>
+<li>Sezon: {{ pc.season }}</li>
+<li>Bölüm: {{ pc.episode }}</li>
+<li>Açıklama:
+<blockquote>
+{{ pc.content | xml_escape | strip_newlines }}
+</blockquote>
+</li>
+</ul>
 {% endfor %}
