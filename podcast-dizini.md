@@ -13,11 +13,8 @@ title: PodCast Dizini
 <li>Bölüm: {{ pc.episode }}</li>
 <li>Açıklama:
 <blockquote>
-{{ pc.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = pc.excerpt | number_of_words %}
-        {% if pc.content != pc.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ pc.url | prepend: site.baseurl }}" class="post-read-more">[Devamını&nbsp;Gör]</a>
-</blockquote>
+{{ pc.description }}	
+ </blockquote>
 </li>
 </ul>
 {% endfor %}
