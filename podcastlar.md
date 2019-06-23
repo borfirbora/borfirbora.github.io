@@ -1,4 +1,4 @@
 ---
 layout: page
-title: {{ site.podcast.title }}
+title: PodCast Dizini
 ---
