@@ -13,7 +13,7 @@ title: PodCast Dizini
 <li>Bölüm: {{ pc.episode }}</li>
 <li>Açıklama:
 <blockquote>
-{{ pc.description }}	
+{{ pc.content }}	
  </blockquote>
 </li>
 </ul>
