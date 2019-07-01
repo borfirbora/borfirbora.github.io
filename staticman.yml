@@ -4,7 +4,7 @@ iletisim:
   commitMessage: "{fields.isim} kişisinden, {fields.baslik} konulu bir mesaj alındı!"
   filename: "{@timestamp}"
   format: "yaml"
-  moderation: true
+  moderation: false
   pullRequestBody: "{fields.isim} ({fields.eposta}), {fields.baslik} konulu mesajını yayımladı:  {fields.mesaj}"
   name: "denemedefteri.com"
   path: "_data/iletisim"
