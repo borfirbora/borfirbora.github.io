@@ -6,7 +6,7 @@ permalink: iletisim/
 
 <p>Aşağıdaki formu kullanarak benimle iletişim kurabilir, soru ve sorunlarınızı direk bana iletebilirsiniz.</p>
 
-<form method="POST" action="https://staticman3.herokuapp.com/v3/entry/github/borfirbora/borfirbora.github.io/master/iletisim">
+<form id="form1">
   <input name="options[redirect]" type="hidden" value="https://denemedefteri.com/basarili">
       <label>İsminiz: <input name="fields[isim]" type="text"></label>
   <label>E-posta Adresiniz: <input name="fields[eposta]" type="email"></label>
@@ -14,3 +14,17 @@ permalink: iletisim/
   <label>Mesajınız (<a href="https://markdowntutorial.com">Markdown desteklenmektedir</a>): <textarea name="fields[mesaj]"></textarea></label>
     <button type="submit">Gönder</button>
 </form>
+
+<script type=”text/javascript” src=”http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js”></script>
+
+<script type=”text/javascript”>
+$.ajax({
+type: “POST”,
+url: "https://staticman3.herokuapp.com/v3/entry/github/borfirbora/borfirbora.github.io/master/iletisim",
+data: $('#form1').serialize(),
+error:function(){ alert("Lütfen tüm alanları doldurup tekrar deneyiniz."); }
+success: function(veri) { alert("Tebrikler; Mesajınız bana ulaştı. Teşekkür ederim."); }
+
+});
+}
+</script>
