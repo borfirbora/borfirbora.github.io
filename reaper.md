@@ -1,6 +1,7 @@
 ---
-title: Reaper: Erişilebilir stüdyo yazılımı
+title: Reaper: EriÅŸilebilir stÃ¼dyo yazÄ±lÄ±mÄ±
 layout: minimal
 permalink: reaper
 ---
-reaper işte yaaa
+
+reaper iÅŸte yaaa
