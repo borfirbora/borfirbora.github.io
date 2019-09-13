@@ -1,8 +1,12 @@
----
+﻿---
 title: Reaper - Erişilebilir Bir Stüdyo Yazılımı
 permalink: reaper
 layout: minimal
 ---
+
+> # Not:
+>
+> Bu sayfa, hiyerarşik başlıklar şeklinde biçimlendirilmiştir. Ekran okuyucunuzun hızlı dolaşım komutlarını kullanarak belge içinde rahatlıkla gezebilirsiniz.
 
 # Reaper - Erişilebilir Bir Stüdyo Yazılımı
 
@@ -14,7 +18,15 @@ Ekran okuyucularımıza daha önce herhangi bir ses yazılımı tarafından hiç
 
 Gelin tüm bunları nasıl yapabileceğimize bir bakalım:
 
-# [Reaper Eğitimi](https://www.udemy.com/reaper-egitimi)
+<nav title="Bu sayfanın kısımları">
+
+-   [Reaper Eğitimi](#reaper-eğitimi)
+-   [Kursa Sahip Olma](#kursa-sahip-olma)
+-   [Önemli Uyarılar!](#önemli-uyarılar)
+
+</nav>
+
+# Reaper Eğitimi
 
 ## Açıklama
 
@@ -75,3 +87,66 @@ Kursu alan her öğrenci, yeni eklenecek derslerle, kurs içeriğinde yapılacak
 * daha önce ses yazılımları kullanmış, fakat kendini farklı yazılımlar öğrenerek geliştirmek isteyenler
 * daha önce hiç ses yazılımı kullanmamış, fakat bu işe meraklı ve ilgili olanlar
 * elinde ekipmanı olup da bunları nasıl değerlendireceğini bilmeyenler
+
+# Kursa Sahip Olma
+
+## Kurs Fiyatları
+
+Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
+
+| Periyot | Fiyat |
+| :--- | ---: |
+| Orjinal Fiyat | 249,99 TL |
+| İndirimli Fiyat | 179,99 TL |
+
+## Kupon Kodu
+
+Reaper Eğitimi kursunu indirimli satın almak için kullanmanız gereken indirimli kupon kodu aşağıda verilmiştir.
+
+```
+REAPER180
+```
+
+## Kursu satın almak için yapılması gerekenler
+
+Kursumuz [Udemy](https://udemy.com/) üzerinde satışta olduğu için kursu aşağıdaki yolları kullanarak satın alabilir ve  öğrenmeye hemen başlayabilirsiniz:
+
+1. [Udemy.Com](https://udemy.com/) adresine giriyor ve kendimize bir adet hesap oluşturuyoruz;
+
+    > Not: Oluşturacağınız hesap bilgilerinizi kolaylıkla hatırlayacağınız ve bir o kadar da güvenli şekilde oluşturmanız, daha sonra kursa erişiminizde sorunlar yaşamayacağınız anlamına gelmektedir.
+
+2. Oluşturduğumuz hesapta oturum açıyoruz;
+3. İsterseniz [Buraya](https://udemy.com/reaper-egitimi) tıklayarak, isterseniz <https://udemy.com/reaper-egitimi> bağlantısını adres çubuğumuza yapıştırarak kursun sayfasına ilerliyoruz;
+4. Sayfadaki düğmeler arasında gezerek **Kupon Uygula** düğmesini buluyor ve yukarıda da verdiğimiz `REAPER180` kodunu bütün harfleri büyük olacak, hiçbir yerde boşluk olmmayacak şekilde yazıyor ve **Uygula** düğmesine basıyoruz;
+5. Ardından satın alma işlemini başlatıyor ve kredi/banka kartımıza ait istenen bilgileri giriyoruz.
+
+Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyla satın alınmış oluyor.
+
+#### Ek Satın  Alma Yolu (Kredi/banka Kartı Kullanmak İstemeyenler İçin)
+
+Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
+
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 180,00 TL Havale/EFT yapıyoruz.
+
+| alan | Bilgi |
+| :--- | ---: |
+| Alıcı Ad Soyad | Bora FIRLANGEÇ |
+| Alıcı IBAN | TR910004600164888000245897 |
+| Açıklama | Udemy üyelik e-posta adresiniz |
+
+Kurs ücretini gönderdikten sonra [borafirlangec@gmail.com](mailto:borafirlangec@gmail.com) adresini kullanarak benimle dekont paylaşabilir ya da Udemy hesap e-postanız gibi bilgileri oradan da gönderebilirsiniz ancak Havale/EFT işlemi sırasında açıklama kısmına Udemy e-postası yazmak zorunludur. Aksi halde kurs satın alımı ilerleyemeceğinden para iyadesi gerçekleşecektir.
+
+Gönderdiğiniz e-posta adresinize, satın alımınız onaylanır onaylanmaz, kursunuzu Udemy üzerinden ücretsiz alabileceğiniz bir kupon kodu gönderilecektir.
+
+> Önemli Uyarı: 
+>
+> Sizin için oluşturulan kodu saklama ve kullanma sorumluluğu tamamen size aittir. Oluşturulacak olan kot tek kullanımlıktır ve bir adettir. Bir kez kullanıldığı zaman kurs satın alınmış olacak ve kod geçerliliğini kaybedecektir.
+
+Daha sonra yukarıdaki adımları kullanarak Udemy'ye üye olup kursunuzu hesabınıza aktarabilirsiniz.
+
+# Önemli Uyarılar!
+
+1. Kursu Apple® cihazlarından satın almak isteyenler, Apple'ın Uygulama İçi Satın Alım politikaları yüzünden kupon kodu kullanamayacaklar ve kursu orjinal fiyatından daha pahalı görüntüleyeceklerdir. Bunun önüne geçmek için Apple® cihazlarından kursu alacak öğrenciler kurslarını bilgisayar üzerinden alıp daha sonra iOS platformlarındaki Udemy uygulamasına giriş yaparak kurslarından faydalanmaya devam edebilirler.
+2. Kurs [Udemy](https://udemy.com/) üzerinde satışta olduğu için Udemy'nin [Kullanım Şartları](https://www.udemy.com/terms/)'na tabidir. Kopyalama, Çoğaltma ve satın almayanlarla paylaşma durumlarında bizzat Udemy olayın takipçisi olacak ve Gerçek ya da Tüzel kişilere hukukî işlem başlatma hakkı bizzat Udemy'de saklı kalacaktır. Bu sebeple satın aldığınız kursunuzu üçüncü kişilerle paylaşmayınız. Paylaşıldığını düşündüğünüz kurs hakkında kursun iletişim sayfasından beni bilgilendiriniz.
+
+Görüş, öneri ve şikayetlerinizi bana <borafirlangec@gmail.com> adresinden 7/24 iletebilirsiniz.
