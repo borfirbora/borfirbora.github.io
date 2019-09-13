@@ -18,16 +18,11 @@ Ekran okuyucularımıza daha önce herhangi bir ses yazılımı tarafından hiç
 
 Gelin tüm bunları nasıl yapabileceğimize bir bakalım:
 
-<nav title="Bu sayfanın kısımları">
-<ul>
+###### Bu Sayfanın Kısımları
 
-<li><a href="#reaper---erişilebilir-bir-stüdyo-yazılımı">Reaper - Erişilebilir Bir Stüdyo Yazılımı</a></li>
-<li><a href="#reaper-eğitimi">Reaper Eğitimi</a>
-<li><a href="#önemli-uyarılar">Önemli Uyarılar!</a></li>
-
-\</ul\>
-
-</nav>
+-   [Reaper Eğitimi](#reaper-eğitimi)
+-   [Kursa Sahip Olma](#kursa-sahip-olma)
+-   [Önemli Uyarılar!](#önemli-uyarılar)
 
 # Reaper Eğitimi
 
