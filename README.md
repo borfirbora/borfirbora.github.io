@@ -1,7 +1,7 @@
-# deneme defteri web sitesi
+﻿# borfirbora web sitesi
 
 Merhabalar  
-Bu Depo, [deneme defteri](https://www.denemedefteri.com) sitesi için tasarım dosyalarını içerir. Bu depoda yer alan tasarım ilkelerini istediğiniz gibi kullanabilir fakat yazılan yazıları kullanamaz, başka yerde yayımlayamazsınız.
+Bu Depo, [borfirbora](https://borfirbora.com) sitesi için tasarım dosyalarını içerir. Bu depoda yer alan tasarım ilkelerini istediğiniz gibi kullanabilir fakat yazılan yazıları kullanamaz, başka yerde yayımlayamazsınız.
 
 Başka yerde yayımlandığı tespit edilen yazılar hakkında:
 
