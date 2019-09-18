@@ -4,7 +4,7 @@ permalink: reaper
 layout: minimal
 ---
 
-[Reaper kursuna git](https://udemy.com/reaper-egitimi) | [Reaper Tanıtım Videosu'nu izle](https://youtube.com/) | [Benimle İletişime Geç](mailto:bilgi@borfirbora.com)
+[Reaper kursuna git](https://udemy.com/reaper-egitimi) \| [Reaper Tanıtım Videosu'nu izle](https://youtube.com/) \| [Benimle İletişime Geç](mailto:bilgi@borfirbora.com)
 
 > # Not:
 >
