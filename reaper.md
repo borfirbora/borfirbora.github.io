@@ -4,6 +4,8 @@ permalink: reaper
 layout: minimal
 ---
 
+[Reaper kursuna git](https://udemy.com/reaper-egitimi) | [Reaper Tanıtım Videosu'nu izle](https://youtube.com/) | [Benimle İletişime Geç](mailto:bilgi@borfirbora.com)
+
 > # Not:
 >
 > Bu sayfa, hiyerarşik başlıklar şeklinde biçimlendirilmiştir. Ekran okuyucunuzun hızlı dolaşım komutlarını kullanarak belge içinde rahatlıkla gezebilirsiniz.
