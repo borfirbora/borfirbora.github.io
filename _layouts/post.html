@@ -39,7 +39,7 @@ layout: base
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
-          Kategori:
+          Etiketler:
           {% if site.link-tags %}
           {% for tag in page.tags %}
             <a href="{{ site.baseurl }}/kategori#{{- tag -}}">{{- tag -}}</a>
@@ -57,12 +57,12 @@ layout: base
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Önceki Yazı</a>
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Önceki Yazı: {{page.previous.title}}</a>
         </li>
         {% endif %}
         {% if page.next.url %}
         <li class="next">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Sonraki Yazı &rarr;</a>
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Sonraki Yazı: {{page.next.title}}&rarr;</a>
         </li>
         {% endif %}
       </ul>
