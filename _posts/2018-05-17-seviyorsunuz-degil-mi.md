@@ -1,7 +1,10 @@
 ---
+layout: post
 title: Seviyorsunuz değil mi?
-tags: [kişisel gelişim]
+tags:
+  - kişisel gelişim
 goster: true
+published: true
 ---
 
 İnsanlar genellikle "Benim evlilikle ne işim olur", "Bizi bulmaz şöyle evlenilecek bir kız/adam" gibi önyargılarla kendilerini sevgiden uzak tutuyor ve korunduklarını sanıyorlar. Halbuki sevgi, korunulacak bir şey değildir. Tam tersine sevgi, ne kadar erken ve ne kadar çok türüyle karşılaşılırsa o kadar insanı olgunlaştıran bir duygudur. Gerçek sevginin ne zaman, nerede ve nasıl kişinin karşısına çıkacağını kestirmek de, yaşadığımız duygunun gerçek sevgi olup olmadığını saptamak da zordur.
