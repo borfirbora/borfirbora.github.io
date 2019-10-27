@@ -249,7 +249,8 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-toc
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
