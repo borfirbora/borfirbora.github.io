@@ -2,6 +2,7 @@
 title: Fırsatımız Var
 tags: [teknoloji]
 goster: true
+toc: true
 ---
 
 İster farkında olun ister olmayın ama teknoloji hayatımızın her yerinde. İstesek de istemesek de bir yerinden tutuyoruz bu işin ve kabul edelim ya da etmeyelim hayatımızı büyük oranda kolaylaştırıyor. Artık teknolojiyi nasıl kullandığımız önemini yitirmiş durumda çünkü hemen hemen her şey bir teknoloji.
