@@ -32,7 +32,7 @@ layout: base
       {% endif %}
 
             {{ page.content | number_of_words | plus: 250 | divided_by: 180 | append: " dakika okuma süresi" }}
-    
+{% toc %}    
       <article role="main" class="blog-post">
         {{ content }}
       </article>
