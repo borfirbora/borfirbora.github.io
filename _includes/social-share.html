@@ -10,21 +10,21 @@
 <section id = "social-share-section">
   <span class="sr-only">Paylaş: </span>
 
-  {% if site.share-links-active.twitter %}
-  <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}+{{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
-      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
-      <span class="sr-only">Twitter</span>
-    </a>
-  {% endif %}
-
   {% if site.share-links-active.facebook %}
   <!--- Share on Facebook -->
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
+    </a>
+  {% endif %}
+
+  {% if site.share-links-active.twitter %}
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}+{{ site.url }}{{ page.url }}"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
     </a>
   {% endif %}
 
@@ -46,6 +46,14 @@
     </a>
   {% endif %}
 
-</section>
+{% if site.share-links-active.whatsapp %}
+  <!--- Share on WhatsApp -->
+    <a href="whatsapp://send?text={{ site.url }}{{ page.url }}&t={{ page.title }}" data-action="share/whatsapp/share"
+      class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp">
+      <span class="fa fa-fw fa-whatsapp" aria-hidden="true"></span>
+      <span class="sr-only">WhatsApp</span>
+    </a>
+  {% endif%}
+  </section>
 
 {% endif %}
