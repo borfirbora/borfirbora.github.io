@@ -1,5 +1,6 @@
 # --- General options --- #
 locale: tr-TR
+future: true
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
