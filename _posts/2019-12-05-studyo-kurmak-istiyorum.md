@@ -13,15 +13,6 @@ tags:
 title: 'Stüdyo Kurmak İstiyorum!'
 ---
 
--   [Cakewalk Pro Audio](#toc1)
--   [Cakewalk Sonar](#toc2)
--   [Reaper](#toc3)
--   [Reaper Kursu](#toc4)
--   [Stüdyo İşletiyor](#toc5)
--   [Yeniyıla Özel Yepyeni İndirim!](#toc6)
-    -   [Orjinal fiyatı 249,99TL olan Reaper Eğitimi kursu yeni yılın
-        başına kadar sadece 100,00TL!](#toc62)
-
 Üçüncü sınıfta başladım müzikle ilgilenmeye. İlk flüt dersimde nasıl
 heyecanlanmıştım, hala dün gibi aklımdadır. Öğrendiğimiz parçaları
 çaldıkça flüt gibi basit bir enstrumanın daha da farklı parçalarda
@@ -33,6 +24,15 @@ başladığımda benim müzikle de ilgilenmeme karar verildi sevgili sınıf
 Dördüncü sınıfta seçmeli dersimde müziği seçmiştim. O sene tanıştım
 piyanoyla ve o seneden beridir devam ediyorum. Beşinci sınıfta
 bağlamayla, altıncı sınıfta kavalla ve son sınıfımda ise bilgisayarla.
+
+-   [Cakewalk Pro Audio](#toc1)
+-   [Cakewalk Sonar](#toc2)
+-   [Reaper](#toc3)
+-   [Reaper Kursu](#toc4)
+-   [Stüdyo İşletiyor](#toc5)
+-   [Yeniyıla Özel Yepyeni İndirim!](#toc6)
+    -   [Orjinal fiyatı 249,99TL olan Reaper Eğitimi kursu yeni yılın
+        başına kadar sadece 100,00TL!](#toc62)
 
 Bilgisayarla tanışmam aslında altıncı sınıfta arkadaşlarım arasında
 bilgisayar kullananların kendi aralarında anlamadığım muhabbetler
