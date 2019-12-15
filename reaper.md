@@ -4,7 +4,27 @@ permalink: reaper
 layout: minimal
 ---
 
-[Reaper kursuna git](https://udemy.com/reaper-egitimi) \| [Reaper Tanıtım Videosu'nu izle](https://youtube.com/) \| [Benimle İletişime Geç](mailto:bilgi@borfirbora.com)
+# Kursta Muhteşem İndirim Var!
+
+* [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
+* [Kursa Git](https://udemy.com/reaper-egitimi)
+* [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
+
+[Reaper Eğitimi](https://udemy.com/reaper-egitimi) kursumuz, yıl sonuna kadar sadece **_100,00_** TL!
+
+Kursu şimdi alırsanız,
+
+* Kurstan ömür boyu faydalanacak;
+* Sadece öğrencilerin katılabildiği ve sadece öğrencilerin görüntüleyebildiği profesyonel bir e-posta grubuna davet edilecek;
+* İster gruptan ister kurs sayfasından sorularınızı, sorunlarınızı, istek, öneri ve şikayetlerinizi rahatlıkla paylaşabileceksiniz.
+
+Kursu hemen satın almak ve bunu sadece bankanız aracılığıyla yapmak için aşağıdaki tabloyu kullanın:
+
+| alan | Bilgi |
+| :--- | ---: |
+| Alıcı Ad Soyad | Bora FIRLANGEÇ |
+| Alıcı IBAN | TR910004600164888000245897 |
+|Tutar|100,00TL|
 
 > # Not:
 >
@@ -97,7 +117,7 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 249,99 TL |
-| İndirimli Fiyat | 179,99 TL |
+| İndirimli Fiyat | 100,00 TL |
 
 ## Kupon Kodu
 
@@ -126,7 +146,7 @@ Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyl
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 180,00 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 100,00 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |

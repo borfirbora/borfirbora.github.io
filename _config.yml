@@ -1,6 +1,5 @@
 # --- General options --- #
 locale: tr-TR
-future: false
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -27,7 +26,7 @@ navbar-links:
   Hakkımda: "hakkimda"
   İletişim: "iletisim"
   Benimle Yazışın: "https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default"
-  Reaper Eğitimi: "http://reaper.borfirbora.com"
+  Reaper Eğitimi: "https://borfirbora.com/reaper"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
