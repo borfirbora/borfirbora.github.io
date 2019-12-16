@@ -1,13 +1,16 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Mert Karagüzel
-kupon: KARAGUZELMERT
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=KARAGUZELMERT
+isim: Ali KORKMAZ
+kupon: REAPER.ADD
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.ADD
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
 Kursumuzdan faydalanmayı seçerek kendinizi ses teknolojileri konusunda bir adım öne taşıdığınız için tebrik ederiz. Aşağıdaki yönergeler, ilk kurs dersinizi alana kadar sizlere yardımcı olacak adımları içermektedir.
+
+
+Unutmayın. Kursu tanımladığınızda sizi bir e-posta grubuna davet edeceğim. İçinde **reaper-tr** ya da **Reaper Türkiye** geçen bir mail alırsanız onu boş olarak yanıtlayın. Böylece gruba katılmış olacaksınız
 
 ## Kursu Hesabınıza Tanımlama
 
