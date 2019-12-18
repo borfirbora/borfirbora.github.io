@@ -2,7 +2,7 @@
 date: '2019-11-15'
 layout: post
 tags:
-- 'Stüdyo-'
+- Stüdyo
 - Erişilebilir
 - Ekipman
 - Ses donanımı
@@ -91,8 +91,7 @@ hemen ayıplayacaklar abartıyor diye ama durum işin içinde olanlar için
 elbette ki böyle değil.
 
 Sonar ile altı yedi yılda yapamadığım her şeyi, Reaper ile dört beş ay
-gibi kısacık bir sürede yaptım ve ben bunu kesinlikle paylaşmalıyım
-dedim.
+gibi kısacık bir sürede yaptım ve ben bunu kesinlikle çevremdekilere anlatmalıyım dedim.
 
 Reaper Kursu {#toc4}
 ------------
@@ -109,16 +108,16 @@ profesyonel eğitim alabilmesi için kolları sıvadım ve neredeyse bir
 senede Türkiye ve dünyanın ilk erişilebilir profesyonel online eğitimini
 hazırladım.
 
-[Reaper Eğitimi](https://udemy.com/reaper-egitimi), Ses
+[Reaper Eğitimi](https://borfirbora.com/reaper), Ses
 düzenlemelerinden profesyonel masteringe, kaliteli aranjelerden amatör
 çalışmalara kadar her alanda kullanılabilecek en erişilebilir stüdyo
-yazılımı.
+yazılımı hakkında verilmiş ilk ve en kapsamlı eğitim.
 
 Önceki tanıtımlardan fark ederek kurstan faydalanan öğrencilerimin
 geribildirimleri beni gerçekten de düşüncelerimde ne kadar haklı
 olduğumu gösterdi. Erişilebilir bir şekilde müzik yapmak herkesin
-hakkıydı ve bunu Türkiye'de sağlayan ilk kişinin ben olması gerçekten de
-gurur vericiydi.
+hakkı ve bunu Türkiye'de sağlayan ilk kişinin ben olması gerçekten de
+gurur verici.
 
 Daha da önemlisi de ne biliyor musunuz? Gerçekten de çok uzun yıllardır
 kurduğum bir hayalin, benim tarafımdan olmasa da kursumdan faydalanan
@@ -156,7 +155,7 @@ eğitim dünyasında hep birlikte adımızdan söz ettirelim.
 Kursumuzun tanıtımını dinlemek için [Reaper Tanıtımı
 2](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
 bağlantısına tıklayabilir, detaylı bilgi ve satın alma işlemleri için
-[Reaper Eğitimi Hakkında](http://reaper.borfirbora.com) bağlanttısına
+[Reaper Eğitimi Hakkında](https://borfirbora.com/reaper) bağlantısına
 tıklayabilirsiniz.
 
 Haydi bakalım, Kursta görüşmek üzere.
