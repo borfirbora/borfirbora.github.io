@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Eylem Yurtsever
+isim: Oğuzhan AL
 kupon: REAPER.ADD
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.ADD
 ---
@@ -37,4 +37,4 @@ Kurs boyunca aşağıdaki kurallara uymanız, siz ve diğer kursiyerlerimizin me
 
 ----------
 
-Herhangi bir konuda soru/sorununuz varsa benimle canlı olarak [reaper.borfirbora.com](http://reaper.borfirbora.com) adresindeki **Sorularınızı Canlı Olarak Sorun** bağlantısını kullanarak paylaşabilirsiniz.
+Herhangi bir konuda soru/sorununuz varsa benimle canlı olarak [BorfirBora.com](https://borfirbora.com) adresindeki **Benimle Yazışın** bağlantısını kullanarak paylaşabilirsiniz.
