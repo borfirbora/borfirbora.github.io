@@ -9,7 +9,7 @@ layout: minimal
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
 * [Kursa Git](https://udemy.com/reaper-egitimi)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
-* [Reaper'i İndir](https://raw.githubusercontent.com/borfirbora/borfirbora.github.io/master/reaper-v5.96.rar)
+* [Reaper'i İndir](reaper-32&64bit.zip)
 
 [Reaper Eğitimi](https://udemy.com/reaper-egitimi) kursumuz, yıl sonuna kadar sadece **_100,00_** TL!
 
