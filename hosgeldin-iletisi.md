@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Kerim ALTINOK
+isim: Özgür ALTINOK
 kupon: REAPER.ADD
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.ADD
 ---
