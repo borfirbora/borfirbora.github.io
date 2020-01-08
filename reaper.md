@@ -1,17 +1,13 @@
-﻿---
+---
 title: Reaper - Erişilebilir Bir Stüdyo Yazılımı
 permalink: reaper
 layout: minimal
 ---
 
-# Kursta Muhteşem İndirim Var!
-
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
 * [Kursa Git](https://udemy.com/reaper-egitimi)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
-
-[Reaper Eğitimi](https://udemy.com/reaper-egitimi) kursumuz, yıl sonuna kadar sadece **_100,00_** TL!
 
 Kursu şimdi alırsanız,
 
@@ -26,7 +22,7 @@ Kursu hemen satın almak ve bunu sadece bankanız aracılığıyla yapmak için 
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR910004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|100,00TL|
+|Tutar|249,99TL|
 
 > # Not:
 >
