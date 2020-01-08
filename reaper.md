@@ -115,15 +115,6 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 249,99 TL |
-| İndirimli Fiyat | 100,00 TL |
-
-## Kupon Kodu
-
-Reaper Eğitimi kursunu indirimli satın almak için kullanmanız gereken indirimli kupon kodu aşağıda verilmiştir.
-
-```
-REAPER180
-```
 
 ## Kursu satın almak için yapılması gerekenler
 
@@ -135,8 +126,7 @@ Kursumuz [Udemy](https://udemy.com/) üzerinde satışta olduğu için kursu aş
 
 2. Oluşturduğumuz hesapta oturum açıyoruz;
 3. İsterseniz [Buraya](https://udemy.com/reaper-egitimi) tıklayarak, isterseniz <https://udemy.com/reaper-egitimi> bağlantısını adres çubuğumuza yapıştırarak kursun sayfasına ilerliyoruz;
-4. Sayfadaki düğmeler arasında gezerek **Kupon Uygula** düğmesini buluyor ve yukarıda da verdiğimiz `REAPER180` kodunu bütün harfleri büyük olacak, hiçbir yerde boşluk olmmayacak şekilde yazıyor ve **Uygula** düğmesine basıyoruz;
-5. Ardından satın alma işlemini başlatıyor ve kredi/banka kartımıza ait istenen bilgileri giriyoruz.
+4. Ardından satın alma işlemini başlatıyor ve kredi/banka kartımıza ait istenen bilgileri giriyoruz.
 
 Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyla satın alınmış oluyor.
 
@@ -144,7 +134,7 @@ Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyl
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 100,00 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 249,99 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |
