@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Özgür ALTINOK
-kupon: REAPER.ADD
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.ADD
+isim: Selim NİBAK
+kupon: REAPER.0220
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.0220
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
