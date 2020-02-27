@@ -9,16 +9,12 @@ Müzik hayatımızın kuşkusuz her alanında kendisini hissettirmeden bile olsa
 
 Acı çeken de, eğlenmek isteyen de müzik dinliyor ve bu sayede yaşamak istediği tüm duyguları onun desteğiyle sonuna kadar yaşayabiliyor. Bizleri harekete geçiren müziğin insanoğlunun bütün duygularına bir karşılığı olması, ne kadar yaratıcı ve ne kadar üretken olduğumuzun da bir göstergesi bence.
 
-<nav title="İçindekiler">
-
--   [NASIL MÜZİKLER DİNLİYORUZ?](#toc1)
+- [NASIL MÜZİKLER DİNLİYORUZ?](#toc1)
 -   [Seçiciler](#toc2)
 -   [Eleştirel Bakabiliyorlar](#toc3)
 -   [Üretiyorlar](#toc4)
 
-</nav>
-
-## NASIL MÜZİKLER DİNLİYORUZ? {#toc1}
+# NASIL MÜZİKLER DİNLİYORUZ? {#toc1}
 
 Hayattan zevk alabilmek ve kendimizi doğru adımlar atarak geliştirebilmenin en temel gerekliliği, yaptığımız şey her ne olursa olsun onun en iyisinin peşinde koşmaktır. Yazı yazacaksanız iyi yazılar yazmaya çalışmalısınız mesela. İyi yazılar yazabilmek için de iyi yazılar okumalısınız ki ufkunuz sizi daraltmasın, tam aksine ilerlemenizi sağlasın.
 
