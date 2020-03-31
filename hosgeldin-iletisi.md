@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Selim NİBAK
-kupon: REAPER.0220
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.0220
+isim: Cem CENGİZ
+kupon: REAPER.CEM
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.CEM
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
