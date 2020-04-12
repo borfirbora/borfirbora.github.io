@@ -1,6 +1,5 @@
 ---
 title: 'Duy Müziğimi'
-date: 2020-02-27
 layout: post
     tags: [müzik,müzik dinlemek,seçici olmak,duygusal]
 ---
