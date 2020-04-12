@@ -1,7 +1,7 @@
 ---
 title: 'Duy Müziğimi'
 layout: post
-    tags: [müzik,müzik dinlemek,seçici olmak,duygusal]
+tags: [müzik,müzik dinlemek,seçici olmak,duygusal]
 ---
 
 Müzik hayatımızın kuşkusuz her alanında kendisini hissettirmeden bile olsa var ve kimsenin aklına onu hayatından çıkarmak şöyle dursun, yokluğunu düşünmek bile gelmiyor. İster işimiz isterse hobimiz müzik olsun herkes bir şekilde bu girdabın içinde olmaktan son derece memnun ve mutlu. Müziği dinlemek kadar yapmak da önemli elbette ama bir şeyi yapmaya karar vermeden önce kesinlikle kendimizi onunla âdeta doldurmak gerektiğine inanıyorum ben.
