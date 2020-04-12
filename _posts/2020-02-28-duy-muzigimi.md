@@ -2,17 +2,17 @@
 title: 'Duy Müziğimi'
 date: 2020-02-27
 layout: post
-tags: [müzik,müzik dinlemek,seçici olmak,duygusal]
+    tags: [müzik,müzik dinlemek,seçici olmak,duygusal]
 ---
 
 Müzik hayatımızın kuşkusuz her alanında kendisini hissettirmeden bile olsa var ve kimsenin aklına onu hayatından çıkarmak şöyle dursun, yokluğunu düşünmek bile gelmiyor. İster işimiz isterse hobimiz müzik olsun herkes bir şekilde bu girdabın içinde olmaktan son derece memnun ve mutlu. Müziği dinlemek kadar yapmak da önemli elbette ama bir şeyi yapmaya karar vermeden önce kesinlikle kendimizi onunla âdeta doldurmak gerektiğine inanıyorum ben.
 
 Acı çeken de, eğlenmek isteyen de müzik dinliyor ve bu sayede yaşamak istediği tüm duyguları onun desteğiyle sonuna kadar yaşayabiliyor. Bizleri harekete geçiren müziğin insanoğlunun bütün duygularına bir karşılığı olması, ne kadar yaratıcı ve ne kadar üretken olduğumuzun da bir göstergesi bence.
 
-- [NASIL MÜZİKLER DİNLİYORUZ?](#toc1)
--   [Seçiciler](#toc2)
--   [Eleştirel Bakabiliyorlar](#toc3)
--   [Üretiyorlar](#toc4)
+- [NASIL MÜZİKLER DİNLİYORUZ? {#toc1}](#nasil-m%c3%9cz%c4%b0kler-d%c4%b0nl%c4%b0yoruz-toc1)
+  - [Seçiciler {#toc2}](#se%c3%a7iciler-toc2)
+  - [Eleştirel Bakabiliyorlar {#toc3}](#ele%c5%9ftirel-bakabiliyorlar-toc3)
+  - [Üretiyorlar {#toc4}](#%c3%9cretiyorlar-toc4)
 
 # NASIL MÜZİKLER DİNLİYORUZ? {#toc1}
 
