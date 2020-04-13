@@ -32,6 +32,7 @@ document.getElementById("comment-form-submit").disabled = true;
           $('.page__comments-form .js-notice').addClass('notice--danger');
           alert('{{ site.data.ui-text[site.locale].comment_error_msg | default: "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again." }}');
           $(form).removeClass('disabled');
+          document.getElementById("comment-form-submit").disabled = false;
         }
       });
 
