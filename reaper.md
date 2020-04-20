@@ -1,7 +1,7 @@
 ---
 title: Reaper - Erişilebilir Bir Stüdyo Yazılımı
 permalink: reaper
-layout: minimal
+layout: page
 ---
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
