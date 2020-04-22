@@ -1,28 +1,46 @@
 ---
-title: Reaper - Erişilebilir Bir Stüdyo Yazılımı
+title: #EvdeKal, Kendini Geliştir
 permalink: reaper
 layout: page
 ---
+
+# #EvdeKal, Kendini Geliştir
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
 * [Kursa Git](https://www.udemy.com/course/reaper-egitimi/?referralCode=A5BF4D4413A14541BA9E)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
-Kursu şimdi alırsanız,
+Hepimiz şu zor günlerde kendimiz ve sevdiklerimizin sağlığına dikkat ediyor, hayatımızı buna göre şekillendiriyoruz. Bir yandan da evlerimize kapandığımız şu günleri birer fırsata çevirmek için büyük bir arayış içindeyiz.
 
-* Kurstan ömür boyu faydalanacak;
-* Sadece öğrencilerin katılabildiği ve sadece öğrencilerin görüntüleyebildiği profesyonel bir e-posta grubuna davet edilecek;
-* İster gruptan ister kurs sayfasından sorularınızı, sorunlarınızı, istek, öneri ve şikayetlerinizi rahatlıkla paylaşabileceksiniz.
+Sizlere bu arayışınızda, tam da bu günlerde ihtiyacınız olacak güzel bir fikri sunmak için buradayım. Dilerseniz lafı fazla uzatmadan, detaylara girelim:
 
-Kursu hemen satın almak ve bunu sadece bankanız aracılığıyla yapmak için aşağıdaki tabloyu kullanın:
+Her türlü ses işlemlerinizde kullanabileceğiniz, videolarınızı kesip biçebileceğiniz, şiir okuyup şarkı söyleyebileceğiniz, kendi bestelerinizi hazırlayabileceğiniz ve daha nicelerini kimseye bağımlı olmadan yapabileceğiniz bir program olan _REAPER_ için hazırlanmış Türkiye'deki ilk ve tek kapsamlı kurs _Reaper Eğitimi_, çok kısa bir süre için _%40_ indirimle _250,00TL_ yerine  sadece _150,00TL_!
+
+# Kampanya Detayları
+
+* Kampanya _23 Nisan 2020_ tarihinde başlayacak ve _10 Mayıs 2020_ tarihi saat _17:00_'da sona erecektir.
+* Kampanyadan sadece _EFT/Havale_ yoluyla  yararlanılabilecek, Udemy üzerinden yapılacak alışverişler kursun orjinal fiyatına tabî tutulacaktır.
+* Kampanyadan yararlanacak olanların Aşağıdaki yönergeler dışında herhangi bir şekilde kurs alması durumunda kampanya geçerliliğini kaybedecektir.
+
+# nelere sahip olacağım?
+
+Kursa sahip olduğunuzda:
+
+* Kursun tamamına ve yeni eklenecek bölümlere ömür boyu erişim hakkı elde edeceksiniz;
+* Kurs için açılmış, sadece sizin gibi kursiyerlerin bulunduğu e-posta gurubunda, sorularınızı sorabilecek ve profesyonel kaynaklara erişebileceksiniz;
+* Yaptığınız çalışmaların incelenebileceği, değerlendirilebileceği bir çalışma ortamına sahip olacaksınız.
+
+# Kampanyadan  nasıl yararlanabilirim?
+
+Kampanyadan faydalanabilmek için aşağıdaki kurs satın alma tablosundaki bilgileri dikkatlice okuyunuz:
 
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR910004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|249,99TL|
+|Tutar|150,00TL|
 
 > # Not:
 >
