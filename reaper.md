@@ -130,7 +130,8 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 
 | Periyot | Fiyat |
 | :--- | ---: |
-| Orjinal Fiyat | 249,99 TL |
+| Orjinal Fiyat | 250,00 TL |
+|İndirimli fiyat|150,00 TL|
 
 ## Kursu satın almak için yapılması gerekenler
 
@@ -150,7 +151,7 @@ Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyl
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 249,99 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 150,00 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |
