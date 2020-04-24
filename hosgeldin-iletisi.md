@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Engin KAYA
+isim: Gizem Alakaya
 kupon: REAPER.CEM
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.CEM
 ---
