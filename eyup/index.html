@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.4.1/darkly/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Çekiliş paneli</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="my-textarea">Çekilişe katılacak isimler (Her satıra bir isim):</label>
+                    <textarea id="my-textarea" class="form-control" name="" rows="3"></textarea>
+                </div>
+                <button onclick="cekilis()" id="button" class="btn btn-primary" type="button">Çekiliş Yap!</button>
+            </div>
+        </div>
+    </div>
+
+    <audio src="gerilim.mp3" id="audio">
+
+    </audio>
+
+    <script>
+        function cekilis() {
+            var audio = document.getElementById("audio");
+            audio.play();
+
+            var array = document.getElementById("my-textarea");
+            var lines = array.value.replace(/\r\n/g, "\n").split("\n");
+            var n = lines.length;
+            var i = Math.floor(Math.random() * n);
+            setTimeout(function () {
+                alert(lines[i]);
+            }, 6000);
+        }
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
