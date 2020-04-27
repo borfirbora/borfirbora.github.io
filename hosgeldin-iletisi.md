@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Gizem Alakaya
+isim: Selahattin KIRCA
 kupon: REAPER.CEM
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.CEM
 ---
