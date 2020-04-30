@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Selahattin KIRCA
-kupon: REAPER.CEM
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER.CEM
+isim: Gürcan SAĞLAM
+kupon: SATINALINDI
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=SATINALINDI
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
