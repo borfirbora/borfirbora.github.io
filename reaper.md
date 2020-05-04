@@ -1,7 +1,7 @@
 ---
-title: #EvdeKal, Kendini Geliştir
+title: \#EvdeKal, Kendini Geliştir
 permalink: reaper
-layout: page
+layout: minimal
 ---
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
