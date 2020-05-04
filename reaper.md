@@ -1,5 +1,5 @@
 ---
-title: \#EvdeKal, Kendini Geliştir
+title: EvdeKal, Kendini Geliştir
 permalink: reaper
 layout: minimal
 ---
