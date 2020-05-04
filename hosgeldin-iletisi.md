@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Gürcan SAĞLAM
+isim: Ferrux
 kupon: SATINALINDI
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=SATINALINDI
 ---
