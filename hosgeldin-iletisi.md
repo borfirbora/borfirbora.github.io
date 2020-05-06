@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Ferrux
+isim: Abdurrahman Tepeli
 kupon: SATINALINDI
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=SATINALINDI
 ---
