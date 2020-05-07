@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Abdurrahman Tepeli
+isim: Ahmet YILMAZ
 kupon: SATINALINDI
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=SATINALINDI
 ---
