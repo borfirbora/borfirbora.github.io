@@ -1,5 +1,5 @@
 ---
-title: EvdeKal, Kendini Geliştir
+title: Reaper - Erişilebilir bir stüdyo yazılımı
 permalink: reaper
 layout: minimal
 ---
@@ -9,36 +9,13 @@ layout: minimal
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
-Hepimiz şu zor günlerde kendimiz ve sevdiklerimizin sağlığına dikkat ediyor, hayatımızı buna göre şekillendiriyoruz. Bir yandan da evlerimize kapandığımız şu günleri birer fırsata çevirmek için büyük bir arayış içindeyiz.
-
-Sizlere bu arayışınızda, tam da bu günlerde ihtiyacınız olacak güzel bir fikri sunmak için buradayım. Dilerseniz lafı fazla uzatmadan, detaylara girelim:
-
-Her türlü ses işlemlerinizde kullanabileceğiniz, videolarınızı kesip biçebileceğiniz, şiir okuyup şarkı söyleyebileceğiniz, kendi bestelerinizi hazırlayabileceğiniz ve daha nicelerini kimseye bağımlı olmadan yapabileceğiniz bir program olan _REAPER_ için hazırlanmış Türkiye'deki ilk ve tek kapsamlı kurs _Reaper Eğitimi_, çok kısa bir süre için _%40_ indirimle _250,00TL_ yerine  sadece _150,00TL_!
-
-# Kampanya Detayları
-
-* Kampanya _23 Nisan 2020_ tarihinde başlayacak ve _10 Mayıs 2020_ tarihi saat _17:00_'da sona erecektir.
-* Kampanyadan sadece _EFT/Havale_ yoluyla  yararlanılabilecek, Udemy üzerinden yapılacak alışverişler kursun orjinal fiyatına tabî tutulacaktır.
-* Kampanyadan yararlanacak olanların Aşağıdaki yönergeler dışında herhangi bir şekilde kurs alması durumunda kampanya geçerliliğini kaybedecektir.
-
-# nelere sahip olacağım?
-
-Kursa sahip olduğunuzda:
-
-* Kursun tamamına ve yeni eklenecek bölümlere ömür boyu erişim hakkı elde edeceksiniz;
-* Kurs için açılmış, sadece sizin gibi kursiyerlerin bulunduğu e-posta gurubunda, sorularınızı sorabilecek ve profesyonel kaynaklara erişebileceksiniz;
-* Yaptığınız çalışmaların incelenebileceği, değerlendirilebileceği bir çalışma ortamına sahip olacaksınız.
-
-# Kampanyadan  nasıl yararlanabilirim?
-
-Kampanyadan faydalanabilmek için aşağıdaki kurs satın alma tablosundaki bilgileri dikkatlice okuyunuz:
 
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR910004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|150,00TL|
+|Tutar|250,00TL|
 
 > # Not:
 >
@@ -131,7 +108,6 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
-|İndirimli fiyat|150,00 TL|
 
 ## Kursu satın almak için yapılması gerekenler
 
