@@ -6,7 +6,8 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-    {% for post in paginator.posts %}
+	<h2><a href="#" class="sp_notify_prompt">Bildirimleri etkinleştirerek yazılarımdan anında haberdar olun!</a></h2>
+	{% for post in paginator.posts %}
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">
