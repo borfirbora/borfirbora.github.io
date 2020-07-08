@@ -21,9 +21,9 @@ Bu güne kadar kullandığımız bütün ses yazılımları arasından erişileb
 
 Ödeme konusunda da bazı muhteşem kolaylıklar sağladım, gelin bunlardan da bahsedelim!
 
-## Kredi kartıyla almak isteyenler için
+## Kredi kartı / banka kartıyla almak isteyenler için
 
-Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı üzerinden gerçekleştirebilirsiniz. Bu platformun en güzel özelliği, yapacağınız  ödemeyi 9 taksite kadar böldürebilirsiniz!
+Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı üzerinden gerçekleştirebilirsiniz. Bu platformun en güzel özelliği, yapacağınız  ödemeyi kredi kartınıza 9 taksite kadar böldürebilirsiniz!
 
 Ödemeyi yaparken gireceğiniz bilgilerden biri olan e-posta adresinizin, **Udemy** platformuna kayıtlı olduğunuz e-posta adresiniz olması yeterli. Satıcıya notunuz kısmına da  aynı e-posta adresinizi yazarsanız, işler daha hızlı yürüyecektir.
 
