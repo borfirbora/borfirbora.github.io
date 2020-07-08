@@ -9,13 +9,36 @@ layout: minimal
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
+# Yılın en uzun sürecek olan kampanyası başlıyor!
+
+Reaper yazılımını artık anlatmama, onu tanıtmama sanırım gerek  kalmadı. Çünkü siz zaten artık bu yazılımı tanıyor, biliyorsunuz!
+
+Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz.
+
+Şimdi gelelim bilmediğiniz şeylere:
+
+**8 Temmuz** ile **31 Temmuz** arası, Reaper eğitimi kursumuz **%40** indirimle sadece **150,00TL**!
+
+Ödeme konusunda da bazı muhteşem kolaylıklar sağladım, gelin bunlardan da bahsedelim!
+
+## Kredi kartıyla almak isteyenler için
+
+Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı üzerinden gerçekleştirebilirsiniz. Bu platformun en güzel özelliği, yapacağınız  ödemeyi 9 taksite kadar böldürebilirsiniz!
+
+Ödemeyi yaparken gireceğiniz bilgilerden biri olan e-posta adresinizin, **Udemy** platformuna kayıtlı olduğunuz e-posta adresiniz olması yeterli. Satıcıya notunuz kısmına da  aynı e-posta adresinizi yazarsanız, işler daha hızlı yürüyecektir.
+
+[Kursu satın alabilmek için buraya tıklayın!](https://www.shopier.com/3578848)
+
+## EFT/Havale yoluyla almak isteyenler için
+
+Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan faydalanmaya başlayabilirsiniz.
 
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR910004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|250,00TL|
+|Tutar|150,00TL|
 
 > # Not:
 >
