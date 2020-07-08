@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Ahmet YILMAZ
-kupon: SATINALINDI
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=SATINALINDI
+isim: Merve Serra ADAŞ
+kupon: REAPER07-2020
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER07-2020
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
