@@ -4,7 +4,7 @@ permalink: reaper
 layout: minimal
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EkuX6t_Mjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/EkuX6t_Mjdc?ecver=1&amp;autoplay=1&amp;iv_load_policy=1&amp;rel=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a rel="" id="NXr0rEsK" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">really stinks</a></div><div><a rel="" id="NXr0rEsK" href="https://www.mummy2monkeys.co.uk/2020/07/my-review-of-a-hybrid-mattress-since-refunded/">here</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
 * [Kursa Git](https://www.udemy.com/course/reaper-egitimi/?referralCode=A5BF4D4413A14541BA9E)
