@@ -7,7 +7,7 @@ season: 2
 episode: 9
 episodeType: full # full | trailer | bonus
 explicit: false # true | false
-audio: https://sample.net/audio.opus
+audio: https://archive.org/download/borcast_202009/timpani%20deneme.mp3
 length: 3927 # in seconds
 ---
 
