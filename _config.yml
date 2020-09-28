@@ -259,12 +259,12 @@ plugins:
 
 podcast:
   title: Bora FIRLANGEÇ PodCast
-  description: This is a sample
+  description: Borfirbora durmuyor, PodCast işine de el atıyor. Teknolojik gelişmelerden günlük yaşam muhabbetlerine, oyunlardan edebi eserlere varan geniş yelpazede hem tekli hem konuklu sohbetler gerçekleştiriyor, eğitimler veriyor. Hem eğlendiriyor, hem bilgilendiriyor hem de bildiklerini aktarıyor. Dinleyelim bakalım Borfirbora, BorCast ile bizlere neler neler anlatıyor!
   url: /podcast.xml # Podcast XML URL
-  author: Sayo Melu
-  email: podcast@sample.net
-  logo: https://sample.net/logo.png # Logo in 1400 – 3000 pixel
-  language: en # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  author: Bora Fırlangeç
+  email: borafirlangec@gmail.com
+  logo: bf.jpeg
+  language: tr # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: Society &amp; Culture  # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: Personal Journals
   type: episodic # episodic | serial
