@@ -10,7 +10,7 @@ use-site-title: true
 	<article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">
-	  {% if post.categories == "podcast" %}Podcast: {% endif %}{{ post.title }}
+	  {% if post.categories === "podcast" %}Podcast: {% endif %}{{ post.title }}
 	  </h2>
 
 	  {% if post.subtitle %}
