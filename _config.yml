@@ -258,7 +258,7 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 podcast:
-  title: Bora FIRLANGEÇ PodCast
+  title: BorCast
   description: Borfirbora durmuyor, PodCast işine de el atıyor. Teknolojik gelişmelerden günlük yaşam muhabbetlerine, oyunlardan edebi eserlere varan geniş yelpazede hem tekli hem konuklu sohbetler gerçekleştiriyor, eğitimler veriyor. Hem eğlendiriyor, hem bilgilendiriyor hem de bildiklerini aktarıyor. Dinleyelim bakalım Borfirbora, BorCast ile bizlere neler neler anlatıyor!
   url: /podcast.xml # Podcast XML URL
   author: Bora Fırlangeç
