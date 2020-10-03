@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Merve Serra ADAŞ
-kupon: REAPER07-2020
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER07-2020
+isim: Baran ALTUN
+kupon: REAPER2010
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER2010&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
@@ -15,7 +15,7 @@ Unutmayın. Kursu tanımladığınızda sizi bir e-posta grubuna davet edeceğim
 
 Kurs bülteninde de açıkladığımız gibi kupon kodunuzu kullanarak kursunuzdan faydalanmaya başlayabilirsiniz. Bunun için:
 
-1. **{{ page.kupon }}** kodunu isterseniz [Reaper Eğitimi](https://udemy.com/reaper-egitimi) bağlantısındaki Kodum var butonuna el ile yazıp Uygula Diyerek, isterseniz direk [{{ page.kupon }}]({{ page.kupon_link }}) bağlantısına tıklayarak kursunuzun size ücretsiz görünmesini sağlayabilirsiniz.
+1. **{{ page.kupon }}** kodunu isterseniz [Reaper Eğitimi](https://udemy.com/reaper-egitimi/?password=reaper101) bağlantısındaki Kodum var butonuna el ile yazıp Uygula Diyerek, isterseniz direk [{{ page.kupon }}]({{ page.kupon_link }}) bağlantısına tıklayarak kursunuzun size ücretsiz görünmesini sağlayabilirsiniz.
 2. Ardından **Hemen Kaydol** butonuna tıklayarak kursunuzu oturum açtığınız hesabınıza tanımlayabilirsiniz.
 
 ## kurstan faydalanma
