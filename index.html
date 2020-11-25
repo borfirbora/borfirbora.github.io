@@ -11,9 +11,7 @@ use-site-title: true
 <p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="http://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
     </div>
 
-<audio controls>
-<source src="http://109.169.23.123:8011/stream.m3u" type="audio/mpegURL" />
-</audio>
+<embed src="http://109.169.23.123:8011/stream"></embed>
 
 <div class="posts-list">
 	{% for post in paginator.posts %}
