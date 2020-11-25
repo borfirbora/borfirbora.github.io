@@ -11,26 +11,9 @@ use-site-title: true
 <p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="http://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
     </div>
 
-<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
-<script type="text/javascript">
-MRP.insert({
-'url':'http://109.169.23.123:8011/stream',
-'lang':'tr',
-'codec':'mp3',
-'volume':10,
-'autoplay':true,
-'jsevents':true,
-'buffering':0,
-'title':'borfirbora radio',
-'welcome':'Hoşgeldiniz!',
-'wmode':'transparent',
-'skin':'mcclean',
-'width':180,
-'height':60
-});
-</script>
-<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<audio controls>
+<source src="http://109.169.23.123:8011/stream.m3u" type="audio/mpegURL" />
+</audio>
 
 <div class="posts-list">
 	{% for post in paginator.posts %}
