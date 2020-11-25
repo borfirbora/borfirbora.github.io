@@ -8,7 +8,7 @@ use-site-title: true
 <h2>BorfirBora Radyo</h2>
 
 <div class="alert alert-primary sr-only" role="alert" id="uyari">
-<p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="http://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
+<p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="https://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
     </div>
 <div class="btn-group" role="group" aria-label="Radyo Oynatıcı Düğmeleri">
   <button type="button" class="btn btn-secondary" id="oynat">Oynat</button>
@@ -27,7 +27,7 @@ var seskis=document.getElementById("ses-kis");
 var sustur=document.getElementById("sustur");
 var uyari=document.getElementById("uyari");
 // uyari.innerHTML="";
-audio.src = "http://109.169.23.123:8011/stream";
+audio.src = "https://109.169.23.123:8011/stream";
 audio.volume=0.1;
 oynat.onclick=function(){
 audio.play();
