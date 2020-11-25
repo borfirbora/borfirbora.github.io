@@ -5,6 +5,74 @@ subtitle: Kişisel Blog
 use-site-title: true
 ---
 
+<h2>BorfirBora Radyo</h2>
+
+<div class="alert alert-primary sr-only" role="alert" id="uyari">
+<p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="http://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
+    </div>
+<div class="btn-group" role="group" aria-label="Radyo Oynatıcı Düğmeleri">
+  <button type="button" class="btn btn-secondary" id="oynat">Oynat</button>
+    <button type="button" class="btn btn-secondary" id="durdur">Durdur</button>
+      <button type="button" class="btn btn-secondary" id="ses-ac">Sesi Arttır</button>
+        <button type="button" class="btn btn-secondary" id="ses-kis">Sesi Azalt</button>
+          <button type="button" class="btn btn-secondary" id="sustur">Sustur</button>
+</div>
+<script>
+var audio;
+audio = new Audio();
+var oynat=document.getElementById("oynat");
+var  durdur=document.getElementById("durdur");
+var sesac=document.getElementById("ses-ac");
+var seskis=document.getElementById("ses-kis");
+var sustur=document.getElementById("sustur");
+var uyari=document.getElementById("uyari");
+// uyari.innerHTML="";
+audio.src = "http://109.169.23.123:8011/stream";
+audio.volume=0.1;
+oynat.onclick=function(){
+audio.play();
+uyari.innerHTML='Oynatılıyor...';
+};
+durdur.onclick=function(){
+audio.pause();
+audio.load();
+uyari.innerHTML='Durduruldu...';
+};
+sesac.onclick=function(){
+audio.volume+= 0.1;
+uyari.innerHTML='Ses Açılıyor...';
+if(audio.volume>=0.9){
+	audio.volume=0.9;
+sesac.disabled=true;
+	uyari.innerHTML='Yüksek ses...';
+}
+seskis.disabled=false;
+};
+seskis.onclick=function(){
+audio.volume-= 0.1;
+uyari.innerHTML='Ses Kısılıyor...';
+if(audio.volume<=0.1){
+	audio.volume=0.1;
+  seskis.disabled=true;
+	uyari.innerHTML='Düşük ses...';
+}
+sesac.disabled=false;
+};
+sustur.onclick=function(){
+audio.muted= !audio.muted;
+if(audio.muted){
+	uyari.innerHTML='Susturuldu...';
+  sesac.disabled=true;
+seskis.disabled=true;
+} else {
+	uyari.innerHTML='Susturulmadı...';
+  sesac.disabled=false;
+seskis.disabled=false;
+} 
+};
+
+</script>
+
 <div class="posts-list">
 	{% for post in paginator.posts %}
 	<article class="post-preview">
