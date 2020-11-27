@@ -7,13 +7,13 @@ use-site-title: true
 
 <h2>BorfirBora Radyo</h2>
 
+<script language="javascript" type="text/javascript" src="https://fps4.listen2myradio.com:2199/system/player.js"></script>
+
 <div class="alert alert-primary sr-only" role="alert" id="uyari">
 <p>Radyomuzu oynatabilmek için <b>oynat</b> butonunu kullanın. Eğer oynatıcı çalışmazsa, <a href="http://109.169.23.123:8011/stream">buraya</a> tıklayarak kendi oynatıcınızda dinleyin.</p>
     </div>
 
-<audio controls>
-<source src="http://109.169.23.123/stream/radiouser830113406.pls?mp=/stream" type="audio/mpegURL" />
-</audio>
+<div class="cc_player" data-username="radiouser830113406">Loading ...</div>
 
 <div class="posts-list">
 	{% for post in paginator.posts %}
