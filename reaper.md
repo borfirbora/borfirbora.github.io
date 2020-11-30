@@ -12,7 +12,13 @@ layout: minimal
 
 Reaper yazılımını artık anlatmama, onu tanıtmama sanırım gerek  kalmadı. Çünkü siz zaten artık bu yazılımı tanıyor, biliyorsunuz!
 
-Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz.
+Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz. Bizzat sizlerden gelen yorumlar bunu söylüyor, ben bir şey söylemiyorum.
+
+Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyor, muhteşem bir haberi sizlerle paylaşmanın mutluluğunu yaşıyorum.
+
+# Reaper eğitimi, Aralık ayına özel tam %50 indirimle sadece***125TL***
+
+Herkesin bu eğitimden faydalanabilmesi, güzel işlere imza atabilmesi için; **Reaper Eğitimi**, **20 Aralık 2020** tarihine kadar, **%50** indirimle sadece **125Tl**.
 
 Ödeme konusunda bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
 
