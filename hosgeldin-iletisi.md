@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Baran ALTUN
-kupon: REAPER2010
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER2010&password=reaper101
+isim: Ali ALPASLAN
+kupon: REAPER2011
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER2011&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
