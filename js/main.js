@@ -140,3 +140,7 @@ var main = {
 document.addEventListener('DOMContentLoaded', main.init);
 
 $("#soru").modal("show");
+
+$("#evet").click(function(){
+window.location.href="http://radyohane.tk";
+});
