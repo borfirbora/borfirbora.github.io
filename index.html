@@ -14,18 +14,19 @@ use-site-title: true
       </div>
       <div class="modal-body">
 	      <p>Birlikteliğimizin programı <b>Yakamoz</b>, <b>Radyo Hane</b>'de başladı. Katılmak ister misin?</p>
-	      <p><a href="http://radyohane.tk/">Yayına katıl!</a></p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Kapat</button>
-        <button type="button" class="btn btn-primary">Değişiklikleri Kaydet</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Hayır</button>
+        <button type="button" class="btn btn-primary" id="evet">Evet</button>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
 <script>
-$('#soru').modal('show');
+$(document).ready(function(){
+	$('#soru').modal('show');
+});
 	/*	var mesaj = "Birlikteliğimizin yayını Yakamoz, radyomuzda başladı!\nDinlemek ve istekte bulunabilmek için ~Tamam~'a dokun!";
 	var s = confirm(mesaj);
 	if(s== true){
