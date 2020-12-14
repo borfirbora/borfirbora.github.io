@@ -15,7 +15,7 @@ Bir Müzik Tutkunu olarak ben, kaval, piano ve vurmalı sazların bir çoğunu �
 ## Şu An Yürüttüğüm Projelerim Neler?
 
 - [Udemy](https://www.udemy.com/) üzerinde en sevdiğim ve kullanmaktan büyük bir keyif aldığım stüdyo yazılımı olan **REAPER**'ı anlattığım bir eğitim setim var. Bu sete ulaşmak ve satın almak için [REAPER EĞİTİMİ](https://www.udemy.com/reaper-egitimi) bağlantısına tıklayabilirsin.
-- Radyo programlarını çok seviyor ve büyük bir tutku besliyorum. Bu yüzden de **Her çarşamba saat 22:00 ile 24:00 arasında** [Tarz Radyo](https://www.tarzradyo.net/)'da **BORAYLA ŞİİR GİBİ** isimli duygusal bir program yapıyorum.
+- Radyo programlarını çok seviyor ve büyük bir tutku besliyorum. Bu yüzden de **Her Cumartesi saat 21:00 ile 23:30 arasında** [Radyo Hane](http://radyohane.tk/)'de eşimle birlikte **Yakamoz** isimli bir program yapıyoruz.
 - Web tasarım ile ilgili kendimi sürekli geliştiriyor ve sizlerden gelecek bildirimlerle bu alanlarda da sizlere hizmet verebilmeyi iple çekiyorum.
 - [Bora FIRLANGEÇ](https://www.youtube.com/borafirlangec) isimli bir **Youtube** kanalım var ve yaptığım müzikleri, şiirleri burada sizlerle paylaşıyorum.
 - [Baba Programlar](https://www.youtube.com/channel/UCW1tmhsmGthcGuei-XjPzHQ) isimli **Youtube** kanalımda ise kullanışlı ve işe yarayabilecek programları ve eğlenceli oyunları, kullanımlarıyla birlikte siz değerli takipçilerimle buluşturuyorum.
