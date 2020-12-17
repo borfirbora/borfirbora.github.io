@@ -1,7 +1,7 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Turkey TEPE
+isim: Turgay TEPE
 kupon: REAPER2012
 kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER2012&password=reaper101
 ---
