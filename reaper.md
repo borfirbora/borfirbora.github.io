@@ -6,7 +6,6 @@ layout: minimal
 
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
-* [Kursa Git](https://www.udemy.com/course/reaper-egitimi/?referralCode=A5BF4D4413A14541BA9E)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
