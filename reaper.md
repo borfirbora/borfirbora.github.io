@@ -4,7 +4,7 @@ permalink: reaper
 layout: minimal
 ---
 
-> Lütfen aşağıdaki videoyu sonuna kadar izleyin, kazançlı çıkacaksınız!
+# Lütfen aşağıdaki videoyu sonuna kadar izleyin, kazançlı çıkacaksınız!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OB9HQeFTuhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
