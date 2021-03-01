@@ -4,8 +4,11 @@ permalink: reaper
 layout: minimal
 ---
 
+> Lütfen aşağıdaki videoyu sonuna kadar izleyin, kazançlı çıkacaksınız!
 
-* [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=DnWt0Dp9H6I&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OB9HQeFTuhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
@@ -15,9 +18,9 @@ Bu güne kadar kullandığımız bütün ses yazılımları arasından erişileb
 
 Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyor, muhteşem bir haberi sizlerle paylaşmanın mutluluğunu yaşıyorum.
 
-# Reaper eğitimi, Aralık ayına özel tam %50 indirimle sadece***125TL***
+# Reaper eğitimi, 2021 Mart ayına özel tam %60 indirimle sadece ***100TL***
 
-Herkesin bu eğitimden faydalanabilmesi, güzel işlere imza atabilmesi için; **Reaper Eğitimi**, **20 Aralık 2020** tarihine kadar, **%50** indirimle sadece **125Tl**.
+Herkesin bu eğitimden faydalanabilmesi, güzel işlere imza atabilmesi için; **Reaper Eğitimi**, **20 Mart 2021** tarihine kadar, **%60** indirimle sadece **100Tl**.
 
 Ödeme konusunda bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
 
@@ -38,7 +41,7 @@ Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan fay
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR910004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|250,00TL|
+|Tutar|100,00TL|
 
 > # Not:
 >
