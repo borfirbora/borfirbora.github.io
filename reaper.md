@@ -12,6 +12,10 @@ layout: minimal
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
 
+> Not;
+>
+> Satın alım yapmadan önce bu sayfada yer alan tüm bilgileri dikkatlice okuduğunuzdan, anladığınızdan ve kabul ettiğinizden emin olun!
+
 Reaper yazılımını artık anlatmama, onu tanıtmama sanırım gerek  kalmadı. Çünkü siz zaten artık bu yazılımı tanıyor, biliyorsunuz!
 
 Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz. Bizzat sizlerden gelen yorumlar bunu söylüyor, ben bir şey söylemiyorum.
@@ -134,6 +138,7 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
+| İndirimli fiyat | 100,00 TL |
 
 ## Kursu satın almak için yapılması gerekenler
 
@@ -153,7 +158,7 @@ Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyl
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 150,00 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 100,00 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |
