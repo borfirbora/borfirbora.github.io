@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Mustafa GÜRSES
-kupon: REAPER0121
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0121&password=reaper101
+isim: M. Ata AKBULUT
+kupon: REAPER0321
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0321&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
