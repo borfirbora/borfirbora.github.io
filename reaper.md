@@ -4,10 +4,6 @@ permalink: reaper
 layout: minimal
 ---
 
-# Lütfen aşağıdaki videoyu sonuna kadar izleyin, kazançlı çıkacaksınız!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OB9HQeFTuhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -21,10 +17,6 @@ Reaper yazılımını artık anlatmama, onu tanıtmama sanırım gerek  kalmadı
 Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz. Bizzat sizlerden gelen yorumlar bunu söylüyor, ben bir şey söylemiyorum.
 
 Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyor, muhteşem bir haberi sizlerle paylaşmanın mutluluğunu yaşıyorum.
-
-# Reaper eğitimi, 2021 Mart ayına özel tam %60 indirimle sadece ***100TL***
-
-Herkesin bu eğitimden faydalanabilmesi, güzel işlere imza atabilmesi için; **Reaper Eğitimi**, **20 Mart 2021** tarihine kadar, **%60** indirimle sadece **100Tl**.
 
 Ödeme konusunda bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
 
@@ -43,9 +35,9 @@ Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan fay
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
-| Alıcı IBAN | TR910004600164888000245897 |
+| Alıcı IBAN | TR925004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|100,00TL|
+|Tutar|250,00TL|
 
 > # Not:
 >
@@ -138,7 +130,6 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
-| İndirimli fiyat | 100,00 TL |
 
 ## Kursu satın almak için yapılması gerekenler
 
@@ -158,12 +149,12 @@ Yukarıdaki adımları sorunsuz bir şekilde tamamlamışsak kursumuz başarıyl
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 100,00 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 250,00 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
-| Alıcı IBAN | TR910004600164888000245897 |
+| Alıcı IBAN | TR925004600164888000245897 |
 | Açıklama | Udemy üyelik e-posta adresiniz |
 
 Kurs ücretini gönderdikten sonra [borafirlangec@gmail.com](mailto:borafirlangec@gmail.com) adresini kullanarak benimle dekont paylaşabilir ya da Udemy hesap e-postanız gibi bilgileri oradan da gönderebilirsiniz ancak Havale/EFT işlemi sırasında açıklama kısmına Udemy e-postası yazmak zorunludur. Aksi halde kurs satın alımı ilerleyemeceğinden para iyadesi gerçekleşecektir.
