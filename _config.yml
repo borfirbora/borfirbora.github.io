@@ -1,4 +1,4 @@
-# --- General options --- #
+# --- General options --- 
 locale: tr-TR
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -130,15 +130,11 @@ disqus: "borfirboracom"
 # fb_comment_id: ""
 
 # Staticman support
-# staticman:
-  # repository : borfirbora/borfirbora.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  # branch     : "master"  # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  # endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : "6LfNF-kUAAAAAFAx9C4wt7lZ4mtrXe6onMmLSZEO" # Use your own site key, you need to apply for one on Google
-    secret   : "jjc9TbfxX7QgWPWEuE+EZsGcrkdWd6lkhcZsfoN6mS4qrSOoUNKtJyIn0mm8QU0LDLOv8eD39ylm75tbpOzzU1uPISJbYoRE8U1Icck7SR0O8nFYd3cvNk64EpbxgAHKWkYcsFylEwWFCPG76VnXvg1PSLIeiCHW9Z8pRzK+j+cW8b6JJ/TXoTn5VCSYiS8SGlPOqaKOX8hhQ5LuUhZqe2Xwm+tMoSe6JhlHUhlzfWjCSOlIMFFP34Ae3ZrQ5gMxQbvoK5Hw9Ewi9mnQQnRQ6H0rHF8jtlGLGXfIJyIdOtwI7RbDTewIN+1z2/oCRBrql/zGAZpGmCRoZ3ebBqpnoA==" # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    # siteKey  : "6LfNF-kUAAAAAFAx9C4wt7lZ4mtrXe6onMmLSZEO" # Use your own site key, you need to apply for one on Google
+    # secret   : "jjc9TbfxX7QgWPWEuE+EZsGcrkdWd6lkhcZsfoN6mS4qrSOoUNKtJyIn0mm8QU0LDLOv8eD39ylm75tbpOzzU1uPISJbYoRE8U1Icck7SR0O8nFYd3cvNk64EpbxgAHKWkYcsFylEwWFCPG76VnXvg1PSLIeiCHW9Z8pRzK+j+cW8b6JJ/TXoTn5VCSYiS8SGlPOqaKOX8hhQ5LuUhZqe2Xwm+tMoSe6JhlHUhlzfWjCSOlIMFFP34Ae3ZrQ5gMxQbvoK5Hw9Ewi9mnQQnRQ6H0rHF8jtlGLGXfIJyIdOtwI7RbDTewIN+1z2/oCRBrql/zGAZpGmCRoZ3ebBqpnoA==" # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
