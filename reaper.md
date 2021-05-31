@@ -4,7 +4,18 @@ permalink: reaper
 layout: minimal
 ---
 
-düzenlenecek
+# Merhaba Arkadaşlar!
+
+[Baba Programlar](https://youtube.com/babaprogramlar) kanalında, geçtiğimiz günlerde iki güzel canlı yayın gerçekleştirmiştik. **Reaper** kullanımı hakkında temel düzeyde eğitim verdiğimiz bu iki canlı yayının bağlantılarını, izlemek isteyenler için aşağıya bırakıyorum:
+
+* [Temel Reaper Eğitimi #1: Reaper'e Giriş ve Temel Ses Düzenleme](https://www.youtube.com/watch?v=dM_4ZU6t3Cw). Bağlantı çalışmazsa videoyu izlemek için <https://www.youtube.com/watch?v=dM_4ZU6t3Cw> bağlantısını da kullanabilirsiniz.
+* [Temel Reaper Eğitimi #2: Video Oluşturma ve Düzenleme](https://www.youtube.com/watch?v=rN-403HTlWY). Bağlantı çalışmazsa videoyu izlemek için <https://www.youtube.com/watch?v=rN-403HTlWY> bağlantısını da kullanabilirsiniz.
+
+Videoları izledikten sonra **Reaper** programıyla ilgileneceklere muhteşem bir süprizimiz var!
+
+Bu duyuruyu gördüğünüz andan itibaren **20 Haziran 2021** **23:59** tarihine kadar **Reaper Eğitimi**, **%40** indirimle **150,00 TL**.
+
+Orjinal fiyatı **250,00 TL** olan profesyonel **Reaper Eğitimi** hakkında detaylı bilgi almak için aşağıdaki bilgileri dikkatlice okuyun ve yönergeleri uygulayın!
 
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
