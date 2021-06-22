@@ -4,10 +4,6 @@ permalink: reaper
 layout: minimal
 ---
 
-**20 Haziran 2021** **23:59** tarihine kadar **Reaper Eğitimi**, **%40** indirimle **150,00 TL**.
-
-Orjinal fiyatı **250,00 TL** olan profesyonel **Reaper Eğitimi** hakkında detaylı bilgi almak için aşağıdaki bilgileri dikkatlice okuyun ve yönergeleri uygulayın!
-
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -41,7 +37,7 @@ Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan fay
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR925004600164888000245897 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|150,00TL|
+|Tutar|250,00TL|
 
 > # Not:
 >
@@ -134,13 +130,12 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
-| İndirimli Fiyat| 150,00 TL |
 
 ## Kursu satın almak için yapılması gerekenler
 
 Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
 
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 150,00 TL Havale/EFT yapıyoruz.
+Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 250,00 TL Havale/EFT yapıyoruz.
 
 | alan | Bilgi |
 | :--- | ---: |
