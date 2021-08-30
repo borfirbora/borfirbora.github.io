@@ -4,6 +4,10 @@ permalink: reaper
 layout: minimal
 ---
 
+Eğitim dönemi başlarken; dijital müzik yapmak isteyenlere, şiir / şarkı okumak isteyenlere, kendi prodüksyonlarını hazırlamak isteyenlere yönelik Türkiye'de hazırlanmış ilk ve tek profesyonel eğitim programında da güzel bir indirim olsun istedim. **20 Eylül** tarihine kadar _Reaper Eğitimi_, orjinal fiyatı olan **250TL** yerine bu kısa süre için **%50** indirimle sadece **125TL**.
+
+Yararlanmak isteyenleri aşağıdaki bilgileri okumaya davet ediyorum. Unutmayın! Son gün, 20 Eylül!
+
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -35,9 +39,9 @@ Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan fay
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
-| Alıcı IBAN | TR925004600164888000245897 |
+| Alıcı IBAN | TR250001001446450483115006 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|250,00TL|
+|Tutar|125,00TL|
 
 > # Not:
 >
@@ -130,28 +134,7 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
-
-## Kursu satın almak için yapılması gerekenler
-
-Aşağıdaki adımları takip ederek kurs satın alımınızı kredi/banka kartı bilgilerinize gerek duyulmayacak şekilde gerçekleştirebilirsiniz:
-
-Kullandığımız banka uygulamasından aşağıda bilgileri verilen hesaba, açıklama kısmına Udemy üyeliğinde kullandığınız e-posta adresini yazarak 250,00 TL Havale/EFT yapıyoruz.
-
-| alan | Bilgi |
-| :--- | ---: |
-| Alıcı Ad Soyad | Bora FIRLANGEÇ |
-| Alıcı IBAN | TR925004600164888000245897 |
-| Açıklama | Udemy üyelik e-posta adresiniz |
-
-Kurs ücretini gönderdikten sonra [borafirlangec@gmail.com](mailto:borafirlangec@gmail.com) adresini kullanarak benimle dekont paylaşabilir ya da Udemy hesap e-postanız gibi bilgileri oradan da gönderebilirsiniz ancak Havale/EFT işlemi sırasında açıklama kısmına Udemy e-postası yazmak zorunludur. Aksi halde kurs satın alımı ilerleyemeceğinden para iyadesi gerçekleşecektir.
-
-Gönderdiğiniz e-posta adresinize, satın alımınız onaylanır onaylanmaz, kursunuzu Udemy üzerinden ücretsiz alabileceğiniz bir kupon kodu gönderilecektir.
-
-> Önemli Uyarı: 
->
-> Sizin için oluşturulan kodu saklama ve kullanma sorumluluğu tamamen size aittir. Oluşturulacak olan kot tek kullanımlıktır ve bir adettir. Bir kez kullanıldığı zaman kurs satın alınmış olacak ve kod geçerliliğini kaybedecektir.
-
-Daha sonra yukarıdaki adımları kullanarak Udemy'ye üye olup kursunuzu hesabınıza aktarabilirsiniz.
+| İndirimli Fiyat | 125,00 TL |
 
 # Önemli Uyarılar!
 
