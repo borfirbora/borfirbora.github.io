@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Beyza YILDIRIM
-kupon: REAPER0621
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0621&password=reaper101
+isim: Gökhan ABAKHAN
+kupon: REAPER0821
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0821&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
