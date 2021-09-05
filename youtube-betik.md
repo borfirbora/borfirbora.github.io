@@ -1,4 +1,6 @@
 ---
+layout: minimal
+title: Youtube-DL İle İndirme Betikleri
 ---
 
 <!DOCTYPE html>
