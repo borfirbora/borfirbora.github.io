@@ -3,14 +3,6 @@ layout: minimal
 title: Youtube-DL İle İndirme Betikleri
 ---
 
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="Bora FIRLANGEÇ borafirlangec@gmail.com" />
-  <title>Youtube-DL İle İndirme Betikleri</title>
   <style>
     html {
       line-height: 1.5;
@@ -150,11 +142,6 @@ title: Youtube-DL İle İndirme Betikleri
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-</head>
-<body>
 <header id="title-block-header">
 <h1 class="title">Youtube-DL İle İndirme Betikleri</h1>
 <p class="author">Bora FIRLANGEÇ <a href="mailto:borafirlangec@gmail.com" class="email">borafirlangec@gmail.com</a></p>
@@ -346,5 +333,3 @@ title: Youtube-DL İle İndirme Betikleri
 </tbody>
 </table>
 <hr />
-</body>
-</html>
