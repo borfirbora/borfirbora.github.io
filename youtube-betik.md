@@ -3,7 +3,26 @@ layout: page
 title: Youtube-DL İle İndirme Betikleri
 ---
 
-  <style>
+
+<div class="modal fade" tabindex="1" role="dialog" id="soru">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Kapat"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Beklenen Reaper Eğitimi İndirimi Başladı!</h4>
+      </div>
+      <div class="modal-body">
+	      <p><b>20 Eylül 2021</b> tarihine kadar, orjinal fiyatı <b>250,00 TL</b> olan <b>Reaper Eğitimi</b>miz, <b>%50</b> indirimle sadece <b>125,00 TL</b>! Detaylı bilgi ve satın alma işlemleri için ilgili sayfaya yönlendirilmek ister misiniz?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Hayır</button>
+        <button type="button" class="btn btn-primary" id="evet">Evet</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<style>
     html {
       line-height: 1.5;
       font-family: Georgia, serif;
