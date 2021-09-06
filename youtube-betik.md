@@ -299,11 +299,9 @@ title: Youtube-DL İle İndirme Betikleri
 <li>Bulunduğunuz yere küçük harflerle <code>cmd</code> yazın ve <code>Enter</code> tuşuna basın;</li>
 <li>Açılan pencereye aşağıdaki kodu yazıp <code>Enter</code> tuşuna basın. Dilerseniz bu kodu buradan kopyalayabilirsiniz:</li>
 </ol>
-<p>
-
-  <input type="text" readonly="readonly"value="youtube-dl -U" />
-
-</p>
+<blokquote>
+  youtube-dl -U
+</blockquote>
 <p>Arşivdeki <em>youtube-dl.exe</em> dosyası güncellenmiş olacağından, sorunsuz indirmeye devam edebilirsiniz. Dilerseniz bu betik klasörünü sıkıştırarak, en güncel ^hâli ile arşivleyebilirsiniz.</p>
 <hr />
 <h2 id="son-notlar">Son Notlar</h2>
