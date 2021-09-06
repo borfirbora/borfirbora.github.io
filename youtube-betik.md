@@ -165,6 +165,9 @@ title: Youtube-DL İle İndirme Betikleri
 <li><a href="#son-notlar">Son Notlar</a></li>
 </ul>
 </nav>
+
+<h1><a href="https://disk.yandex.com.tr/d/59zSD5WWsNbXww" target="_blank">Youtube-Betik.zip - Yandex Disk'ten İndirmek İçin Tıklayın!</a></h1>
+
 <blockquote>
 <p>Önemli Not!</p>
 <p>Bu doküman, arşivin içerisinde verilen betiklerin kullanımına ve olası sorunların çözümlerine ilişkin yönergeler içermektedir. Bu betiklerin kullanımından doğabilecek tüm hasar, sizin sorumluluğunuzdadır. Betikleri kullanmak, bunu kabul ettiğiniz anlamına gelmektedir.</p>
