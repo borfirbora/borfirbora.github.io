@@ -4,10 +4,6 @@ permalink: reaper
 layout: minimal
 ---
 
-Eğitim dönemi başlarken; dijital müzik yapmak isteyenlere, şiir / şarkı okumak isteyenlere, kendi prodüksyonlarını hazırlamak isteyenlere yönelik Türkiye'de hazırlanmış ilk ve tek profesyonel eğitim programında da güzel bir indirim olsun istedim. **20 Eylül** tarihine kadar _Reaper Eğitimi_, orjinal fiyatı olan **250TL** yerine bu kısa süre için **%50** indirimle sadece **125TL**.
-
-Yararlanmak isteyenleri aşağıdaki bilgileri okumaya davet ediyorum. Unutmayın! Son gün, 20 Eylül!
-
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -41,7 +37,7 @@ Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan fay
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR250001001446450483115006 |
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|125,00TL|
+|Tutar|250,00TL|
 
 > # Not:
 >
@@ -134,7 +130,6 @@ Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
 | Periyot | Fiyat |
 | :--- | ---: |
 | Orjinal Fiyat | 250,00 TL |
-| İndirimli Fiyat | 125,00 TL |
 
 # Önemli Uyarılar!
 
