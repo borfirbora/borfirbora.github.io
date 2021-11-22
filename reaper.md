@@ -4,6 +4,18 @@ permalink: reaper
 layout: minimal
 ---
 
+# Merhabalar Arkadaşlar!
+
+_2021_ yılını geride bırakırken bir çok arkadaşımız _Reaper_ yazılımıyla tanıştı. Toplamda _76_ arkadaşımız, müzik yapmak, ses kayıtlarını düzenlemek ya da Youtube videoları için PostProduction (Postprodüksyon) hazırlamak için bu erişilebilir yazılımı kullandı. Kursun ilk yayınlanışının üzerinden _2_ yıl geçti ve içimizde ücretli prodüktörlük işleri yapmaya hazırlanan, kendi stüdyosunu büyük bir şevkle idare edenler bile var. Oluşturduğumuz mail grubunda bir çok soru soruldu ve bir çok konu açığa kavuşturuldu, bizzat kursu alan öğrencilerimiz tarafından.
+
+Tüm bu insanların arasına katılmak istediğinizi biliyorum. Tüm bunları duymak sizleri heyecanlandırıyor, tıpkı benim de heyecanlandığım gibi.
+
+O halde sizlere _2021_ yılının son indirimini duyurmaktan büyük bir mutluluk duyuyorum.
+
+_Reaper Eğitimi_, _22 Kasım 2021_ tarihinden itibaren geçerli olmak üzere, _17 Aralık 2021_ tarihine kadar, yapılabilecek en büyük indirim oranı olan _%60_'lik indirimle, eski fiyatı olan _250,00TL_ yerine, sadece _100,00TL_!
+
+Aramıza katılan arkadaşlarımıza şimdiden başarılar diliyor, eğitimde görüşeceğimizin de sözünü veriyorum.
+
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -18,7 +30,7 @@ Bu güne kadar kullandığımız bütün ses yazılımları arasından erişileb
 
 Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyor, muhteşem bir haberi sizlerle paylaşmanın mutluluğunu yaşıyorum.
 
-Ödeme konusunda bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
+Ödeme konusunda; Papara, İninal gibi önödemeli kartların yanı sıra bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
 
 ## Kredi kartı / banka kartıyla almak isteyenler için
 
@@ -28,16 +40,18 @@ Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı 
 
 [Kursu satın alabilmek için buraya tıklayın!](https://www.shopier.com/3578848)
 
-## EFT/Havale yoluyla almak isteyenler için
+## EFT/Havale, Papara, İninal yoluyla almak isteyenler için
 
-Her zamanki yolumuz da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan faydalanmaya başlayabilirsiniz.
+Her zamanki yollarımız da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan faydalanmaya başlayabilirsiniz.
 
 | alan | Bilgi |
 | :--- | ---: |
 | Alıcı Ad Soyad | Bora FIRLANGEÇ |
 | Alıcı IBAN | TR250001001446450483115006 |
+|Papara Numarası|1466029229|
+|İninal Numarası|1033072068440|
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|250,00TL|
+|Tutar|100,00TL|
 
 > # Not:
 >
@@ -125,11 +139,7 @@ Kursu alan her öğrenci, yeni eklenecek derslerle, kurs içeriğinde yapılacak
 
 ## Kurs Fiyatları
 
-Reaper Eğitimi kursu ile ilgili fiyat bilgileri aşağıda yer almaktadır:
-
-| Periyot | Fiyat |
-| :--- | ---: |
-| Orjinal Fiyat | 250,00 TL |
+Reaper Eğitimi kursu ile ilgili fiyat bilgileri yukarıda yer almaktadır:
 
 # Önemli Uyarılar!
 
