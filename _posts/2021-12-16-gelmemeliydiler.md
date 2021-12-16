@@ -1,0 +1,5 @@
+---
+title: Gelmemeliydiler...
+---
+
+# belkide gıcıklığımızdır.
