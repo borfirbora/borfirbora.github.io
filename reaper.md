@@ -4,18 +4,6 @@ permalink: reaper
 layout: minimal
 ---
 
-# Merhabalar Arkadaşlar!
-
-_2021_ yılını geride bırakırken bir çok arkadaşımız _Reaper_ yazılımıyla tanıştı. Toplamda _76_ arkadaşımız, müzik yapmak, ses kayıtlarını düzenlemek ya da Youtube videoları için PostProduction (Postprodüksyon) hazırlamak için bu erişilebilir yazılımı kullandı. Kursun ilk yayınlanışının üzerinden _2_ yıl geçti ve içimizde ücretli prodüktörlük işleri yapmaya hazırlanan, kendi stüdyosunu büyük bir şevkle idare edenler bile var. Oluşturduğumuz mail grubunda bir çok soru soruldu ve bir çok konu açığa kavuşturuldu, bizzat kursu alan öğrencilerimiz tarafından.
-
-Tüm bu insanların arasına katılmak istediğinizi biliyorum. Tüm bunları duymak sizleri heyecanlandırıyor, tıpkı benim de heyecanlandığım gibi.
-
-O halde sizlere _2021_ yılının son indirimini duyurmaktan büyük bir mutluluk duyuyorum.
-
-_Reaper Eğitimi_, _22 Kasım 2021_ tarihinden itibaren geçerli olmak üzere, _17 Aralık 2021_ tarihine kadar, yapılabilecek en büyük indirim oranı olan _%60_'lik indirimle, eski fiyatı olan _250,00TL_ yerine, sadece _100,00TL_!
-
-Aramıza katılan arkadaşlarımıza şimdiden başarılar diliyor, eğitimde görüşeceğimizin de sözünü veriyorum.
-
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
@@ -51,7 +39,7 @@ Her zamanki yollarımız da geçerli tabii ki! Aşağıdaki bilgilerle de kursta
 |Papara Numarası|1466029229|
 |İninal Numarası|1033072068440|
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|100,00TL|
+|Tutar|250,00TL|
 
 > # Not:
 >
