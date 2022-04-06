@@ -4,6 +4,14 @@ permalink: reaper
 layout: minimal
 ---
 
+# Merhabalar!
+
+Uzun zamandır bu tarz bir indirimi beklediğinizi biliyoorum. Sizi artık bekletmiyorum ve **Ramazan** ayı boyunca geçerli, yılın en büyük indirimini duyurmaktan büyük mutluluk duyuyorum! İşte detaylar:
+
+Türkiye'nin ilk ve  alanında tek **profesyonel** **Reaper Eğitimi**, **Ramazan ayı boyunca**, orjinal fiyatı olan **250,00TL** yerine sadece **150,00TL**!
+
+**1 Mayıs 2022**, yani **arefe gününe kadar** sürecek bu indirimi sakın kaçırmayın!
+
 * [Kursun Tanıtımını İzle](https://www.youtube.com/watch?v=OB9HQeFTuhk)
 * [Benimle Canlı  Olarak Yazışın](https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default)
 * [Reaper'i İndir](reaper-32&64bit.zip)
