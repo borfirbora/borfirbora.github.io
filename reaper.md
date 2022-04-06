@@ -34,7 +34,9 @@ Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı 
 
 Ödemeyi yaparken gireceğiniz bilgilerden biri olan e-posta adresinizin, **Udemy** platformuna kayıtlı olduğunuz e-posta adresiniz olması yeterli. Satıcıya notunuz kısmına da  aynı e-posta adresinizi yazarsanız, işler daha hızlı yürüyecektir.
 
-[Kursu satın alabilmek için buraya tıklayın!](https://www.shopier.com/3578848)
+- [Kursu satın alabilmek için buraya tıklayın;](https://paymes.shop/borfirbora/product/234244309)
+- Ardından ürünü sepete ekleyin;
+- Daha sonra yukarıdaki sepetinize tıklayın ve **ödemeyi başlat** butonuna tıklayın.
 
 ## EFT/Havale, Papara, İninal yoluyla almak isteyenler için
 
