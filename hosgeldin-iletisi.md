@@ -1,9 +1,9 @@
 ---
 title: Hoşgeldin iletisi
 layout: minimal
-isim: Serkan TÜRKYILMAZ
-kupon: REAPER0422
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0422&password=reaper101
+isim: Savaş AVCI
+kupon: REAPER0522
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0522&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
