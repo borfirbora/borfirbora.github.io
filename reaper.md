@@ -28,7 +28,7 @@ Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı 
 
 - [Kursu satın alabilmek için buraya tıklayın;](https://paymes.shop/borfirbora/product/234244309)
 - Ardından ürünü sepete ekleyin;
-- Daha sonra yukarıdaki sepetinize tıklayın ve **ödemeyi başlat** butonuna tıklayın.
+- Daha sonra yukarıdaki <b>1</b> yazan sepetinize tıklayın ve **ödemeyi başlat** butonuna tıklayın.
 
 ## EFT/Havale, Papara, İninal yoluyla almak isteyenler için
 
@@ -41,7 +41,7 @@ Her zamanki yollarımız da geçerli tabii ki! Aşağıdaki bilgilerle de kursta
 |Papara Numarası|1466029229|
 |İninal Numarası|1033072068440|
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|250,00TL|
+|Tutar|180,00TL|
 
 > # Not:
 >
