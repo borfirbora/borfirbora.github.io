@@ -41,7 +41,7 @@ Her zamanki yollarımız da geçerli tabii ki! Aşağıdaki bilgilerle de kursta
 |Papara Numarası|1466029229|
 |İninal Numarası|1033072068440|
 |Açıklama|Udemy e-posta adresiniz|
-|Tutar|180,00TL|
+|Tutar|450,00TL|
 
 > # Not:
 >
