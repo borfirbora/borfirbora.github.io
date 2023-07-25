@@ -22,6 +22,7 @@ description: Kişisel Blog
 
 # List of links in the navigation bar
 navbar-links:
+  Soru Sor: "sor"
   Hakkımda: "hakkimda"
   İletişim: "iletisim"
   Benimle Yazışın: "https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default"
