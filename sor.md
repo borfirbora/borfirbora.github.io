@@ -1,6 +1,4 @@
 ---
-title: Soru Sor
-permalink: sor
 ---
 
 <script>
