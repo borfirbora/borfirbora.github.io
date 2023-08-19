@@ -2,8 +2,8 @@
 title: Hoşgeldin iletisi
 layout: minimal
 isim: Öğrencimiz
-kupon: REAPERP
-kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPERP&password=reaper101
+kupon: REAPER0823
+kupon_link: https://www.udemy.com/course/reaper-egitimi/?couponCode=REAPER0823&password=reaper101
 ---
 # Sayın {{ page.isim }}, Reaper Eğitimi'ne Hoşgeldiniz!
 
