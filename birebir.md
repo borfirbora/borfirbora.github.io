@@ -9,7 +9,7 @@ layout: minimal
 
 ## Görmeyenler İçin Dijital Dünyanın Kapıları Aralanıyor!
 
-Merhaba! Ben Bora FIRLANGEÇ ve Bire Bir Eğitim Platformu'nu size tanıtmaktan büyük mutluluk duyuyorum! Görmeyen bireyler için özel ve eğlenceli bir öğrenme deneyimi sunmak için buradayım. Platformumda, her seviyeden kullanıcıya NVDA, Reaper, Python, Javascript, HTML ve daha fazlasını öğretmek için sabırsızlanıyorum.
+Merhaba! Ben Bora FIRLANGEÇ ve Bire Bir Eğitim Platformu'nu size tanıtmaktan büyük mutluluk duyuyorum! Görmeyen bireyler için özel ve eğlenceli bir öğrenme deneyimi sunmak için buradayım. Platformumda, her seviyeden kullanıcıya NVDA, Reaper, Python, Javascript, HTML ve daha fazlasını öğretmek için sabırsızlanıyorum. Ayrıca istediğiniz uygulamayı ya da Web sitesini de kullanmayı sizlere detaylıca gösteriyorum.
 
 ---
 
