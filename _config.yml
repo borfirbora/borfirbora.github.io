@@ -26,7 +26,6 @@ navbar-links:
   Hakkımda: "hakkimda"
   İletişim: "iletisim"
   Benimle Yazışın: "https://tawk.to/chat/5d8b5acf6c1dde20ed03632d/default"
-  Eğitimlerim:
   NVDA Eğitimi: "https://borfirbora.com/nvda"
   Reaper Eğitimi: "https://borfirbora.com/reaper"
   Youtube-DL İle İndirme Betikleri: "https://borfirbora.com/youtube-betik"
@@ -75,17 +74,17 @@ social-network-links:
   rss: true
   email: "borafirlangec@gmail.com"
   facebook: bora.firlangec
-  #github: daattal
-  twitter: borfirbora
+  github: borfirbora
+  twitter: firbora
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-  youtube: borafirlangec
-#  spotify: yourname
+  instagram: borfirbora
+  youtube: babaprogramlar
+  spotify: borfirbora
 #  telephone: +14159998888
 #  steam: deanat78
   twitch: borfirbora
