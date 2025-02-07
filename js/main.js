@@ -139,8 +139,8 @@ var main = {
 
 document.addEventListener('DOMContentLoaded', main.init);
 
-$("#soru").modal("show");
+// $("#soru").modal("show");
 
 $("#evet").click(function(){
-window.location.href="https://borfirbora.com/reaper";
+window.location.href="https://borfirbora.com/nvda";
 });
