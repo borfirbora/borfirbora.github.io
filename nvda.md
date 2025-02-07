@@ -23,7 +23,7 @@ Bir yazılım geliştirici veya içerik üreticisi isek, NVDA programlama araçl
 
 Taşınabilir sürümü sayesinde USB belleğe yükleyerek farklı bilgisayarlarda kuruluma ihtiyaç duymadan kullanabiliriz. Üstelik açık kaynaklı yapısı sayesinde dünya genelinde geliştiriciler ve topluluklar tarafından sürekli iyileştirilen bir yazılımdır. Ticari ekran okuyuculara güçlü bir alternatif olarak, hepimize kapsayıcı ve erişilebilir bir dijital deneyim sunar.
 
-Arayüzü ve yardım dokümanları da dahil olmak üzere tamamen TÜrkçe olan bu yazılımın, artık profesyonel bir eğitimi de var: **NVDA Eğitimi**
+Arayüzü ve yardım dokümanları da dahil olmak üzere tamamen Türkçe olan bu yazılımın, artık profesyonel bir eğitimi de var: **NVDA Eğitimi**
 
 2007 yılından beri JAWS, 2020 yılından beri de **NVDA** kullanan birisi olarak ekran okuyucu yazılımlarının gidişatı her zaman merceğimde olagelmiştir. Gerek günlük yaşamda gerekse profesyonel ve iş yaşamımda her iki yazılımı uzun yıllar kullanma fırsatı buldum. Fakat NVDA ile tanıştıktan sonra bilgisayara olan bakış açım değişti, genişledi ve artık neler yapabildiğimi daha iyi görme fırsatım oldu.
 
@@ -47,6 +47,7 @@ Bütün bu saydıklarım ve daha fazlasının bizzat deneyimlerimle tescillenmes
 Sadece bir ekran okuyucu yazılımı öğrenmeyeceğiniz, ekran okuyucusu yazılımıyla yapabileceğiniz bir çok şeyi öğrenebileceğiniz eğitimimize hoş geldiniz!
 
 Bilgisayarın ne olduğundan başlayacak olan eğitimimiz, NVDA'nın en önemli özelliklerini öğreterek devam edecek. Genel anlamda bulut tabanlı işlemler üzerinden ilerleyecek olan eğitimimiz, NVDA konfigürasyon yönetiminden eklenti yazımına varan geniş bir alanı içine alıyor olacak.
+
 Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve içerisine sürekli yeni konular ve yeni üniteleri dahil etmeye devam edeceğim.
 
 ## Eğitim Kimler İçin Uygun?
@@ -56,7 +57,7 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
 * Kullandığı ekran okuyucuyu istediği her yere yanında götürmek isteyenler;
 * Mac işletim sisteminden Windows'a geçenler;
 * Kullandığı ekran okuyucu yazılımının çok ağır olmasından şikayetlenenler;
-; İlk kez bilgisayar sahibi olmuş çocuk, genç ya da yetişkin körler;
+* İlk kez bilgisayar sahibi olmuş çocuk, genç ya da yetişkin körler;
 * **"Bilgisayara zaten çok para verdim, bir de ekran okuyucu yazılıma mı para vereceğim?"** diye şikayetlenenler;
 * Okula başlayıp dijital eğitimde kendini ifade etmek isteyenler;
 * Ve daha fazlası.
@@ -71,11 +72,11 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
     1. Eğer önceden tanımladığınız bilgisayarı değiştirmek istiyorsanız, **Kursu önceden tanımladığım bilgisayarı değiştirmek istiyorum** seçeneğini işaretleyerek formu doldurun.
     > Not: Size özel oluşturulan kodu mutlaka bir yerde saklayın. Bu kod, eğitimin gerçekten size ait olduğunu kanıtlamanızın tek yoludur.
 1. Eğitimin adınıza tanımlanmasının ardından iletilecek postayı bekleyin ve olumlu bir cevap aldığınızda eğitim uygulamasını açıp istediğiniz gibi izlemeye başlayın.
-1. Eğitimin tanımlanmasının ardından ekleneceğiniz **Google Classroom** sınıfında eğitim ile alakalı sınavlara katılabilir, sorularınızı sorabilir ya da materyallere ulaşabilirsiniz.
+1. Eğitimin tanımlanmasının ardından ekleneceğiniz **Google Classroom** sınıfında eğitim ile alakalı sınavlara katılabilir, sorularınızı sorabilir, yeni konular önerebilir ya da materyallere ulaşabilirsiniz.
 
 > Notlar:
 >
-> * Eğitim yazılımı, her açıldığında kimlik doğrulama işlemi yapabilmek için internet kullanımına ihtiyaç duymaktadır. Yazılım, eğitim müfredatını yüklediğinde internet erişimine gerek kalmayacaktır. Müfredat yüklendikten sonra uygulamayı kapatmadığınız sürece internete gerek bulunmamaktadır.
+> * Eğitim yazılımı, her açıldığında kimlik doğrulama işlemi yapabilmek için internet kullanımına ihtiyaç duymaktadır. Yazılım, eğitim yetkisini doğruladığında internet erişimine gerek kalmayacaktır. Müfredat yüklendikten sonra uygulamayı kapatmadığınız sürece internete gerek bulunmamaktadır.
 > * Eğitime yeni bölümler eklendiğine ilişkin bildirim aldığınızda, eğitim yazılımının son hâlini indirip üzerine kurulum yaparak son eğitimleri de elde edebilirsiniz.
 
 ## Eğitim Müfredatı
