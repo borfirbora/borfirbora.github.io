@@ -35,7 +35,7 @@ NVDA'nın küçük olması hiç de önemli değilmiş:
 : **NVDA,** geliştirildiği modern yazılım teknikleri sayesinde hem küçük olmayı başarmış hem de kapsayıcılığı üst seviyede tutmuş bu zamana kadar. Ben kullandığımdan beri de tüm bunları sonuna kadar gözlemlemiş oldum.
 
 NVDA, herkes tarafından geliştirilebiliyormuş:
-<>: Ekran okuyucunun bu kadar güçlü olmasının arkasında hem onu geliştiren ekibin körlerden oluşması hem de geniş bir gönüllü kitle tarafından üzerinde çalışılması varmış. Açık kaynak kodlu (Open Source) yaklaşımının sonuna kadar benimsenmesi hem herkesin bu yazılıma katkı sağlamasını hem de güvenlik konusunda oluşabilecek bütün endişelerin bertaraf edilmesini sağlamış.
+: Ekran okuyucunun bu kadar güçlü olmasının arkasında hem onu geliştiren ekibin körlerden oluşması hem de geniş bir gönüllü kitle tarafından üzerinde çalışılması varmış. Açık kaynak kodlu (Open Source) yaklaşımının sonuna kadar benimsenmesi hem herkesin bu yazılıma katkı sağlamasını hem de güvenlik konusunda oluşabilecek bütün endişelerin bertaraf edilmesini sağlamış.
 
 NVDA, geniş bir erişilebilirlik arayüzü (Accessibility API) desteğine sahipmiş:
 : Java tabanlı yazılımlardan Web uygulamalarına, komut satırı arayüzlerinden native (yerel) sistem uygulamalarına kadar geniş bir yelpazede varlık gösteren uygulamaları destekleyebiliyor olması, geniş erişilebilirlik arayüzü desteği sayesinde mümkünmüş.
@@ -47,7 +47,36 @@ Bütün bu saydıklarım ve daha fazlasının bizzat deneyimlerimle tescillenmes
 Sadece bir ekran okuyucu yazılımı öğrenmeyeceğiniz, ekran okuyucusu yazılımıyla yapabileceğiniz bir çok şeyi öğrenebileceğiniz eğitimimize hoş geldiniz!
 
 Bilgisayarın ne olduğundan başlayacak olan eğitimimiz, NVDA'nın en önemli özelliklerini öğreterek devam edecek. Genel anlamda bulut tabanlı işlemler üzerinden ilerleyecek olan eğitimimiz, NVDA konfigürasyon yönetiminden eklenti yazımına varan geniş bir alanı içine alıyor olacak.
-Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve içerisine sürekli yeni konular ve yeni üniteleri dahil etmeye devam edeceğim. Şimdi dilerseniz **on üç saatten fazla** olan eğitimimizin müfredatına bir göz atalım:
+Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve içerisine sürekli yeni konular ve yeni üniteleri dahil etmeye devam edeceğim.
+
+## Eğitim Kimler İçin Uygun?
+
+* Bilgisayar kullanmasını bilmeyen körler;
+* Başka bir ekran okuyucudan NVDA'ya geçmek isteyenler;
+* Kullandığı ekran okuyucuyu istediği her yere yanında götürmek isteyenler;
+* Mac işletim sisteminden Windows'a geçenler;
+* Kullandığı ekran okuyucu yazılımının çok ağır olmasından şikayetlenenler;
+; İlk kez bilgisayar sahibi olmuş çocuk, genç ya da yetişkin körler;
+* **"Bilgisayara zaten çok para verdim, bir de ekran okuyucu yazılıma mı para vereceğim?"** diye şikayetlenenler;
+* Okula başlayıp dijital eğitimde kendini ifade etmek isteyenler;
+* Ve daha fazlası.
+
+## **NVDA Eğitimi** Satın Alma Aşamaları
+
+1. Yukarıdaki *Eğitim Menüsü**'nden **eğitim yazılımı**nı indirin;
+1. Aynı menüden *satın alım** işleminizi gerçekleştirin;
+1. İndirdiğiniz yazılımı bilgisayarınıza kurun;
+1. Yazılımı çalıştırın ve açılan ekranda yer alan, size özel oluşturulmuş kodu, altındaki **kopyala** düğmesi yardımıyla kopyalayın ve aynı ekrandaki form bağlantısından ilgili formu doldurun;
+    1. Eğer eğitimi ilk kez satın aldıysanız, **Satın aldığım kursu bilgisayarıma tanımlamak istiyorum** seçeneğini işaretleyin ve formu doldurun;
+    1. Eğer önceden tanımladığınız bilgisayarı değiştirmek istiyorsanız, **Kursu önceden tanımladığım bilgisayarı değiştirmek istiyorum** seçeneğini işaretleyerek formu doldurun.
+    > Not: Size özel oluşturulan kodu mutlaka bir yerde saklayın. Bu kod, eğitimin gerçekten size ait olduğunu kanıtlamanızın tek yoludur.
+1. Eğitimin adınıza tanımlanmasının ardından iletilecek postayı bekleyin ve olumlu bir cevap aldığınızda eğitim uygulamasını açıp istediğiniz gibi izlemeye başlayın.
+1. Eğitimin tanımlanmasının ardından ekleneceğiniz **Google Classroom** sınıfında eğitim ile alakalı sınavlara katılabilir, sorularınızı sorabilir ya da materyallere ulaşabilirsiniz.
+
+> Notlar:
+>
+> * Eğitim yazılımı, her açıldığında kimlik doğrulama işlemi yapabilmek için internet kullanımına ihtiyaç duymaktadır. Yazılım, eğitim müfredatını yüklediğinde internet erişimine gerek kalmayacaktır. Müfredat yüklendikten sonra uygulamayı kapatmadığınız sürece internete gerek bulunmamaktadır.
+> * Eğitime yeni bölümler eklendiğine ilişkin bildirim aldığınızda, eğitim yazılımının son hâlini indirip üzerine kurulum yaparak son eğitimleri de elde edebilirsiniz.
 
 ## Eğitim Müfredatı
 
