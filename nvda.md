@@ -64,7 +64,7 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
 
 ## **NVDA Eğitimi** Satın Alma Aşamaları
 
-1. Yukarıdaki *Eğitim Menüsü**'nden **eğitim yazılımı**nı indirin;
+1. Yukarıdaki *Eğitim Menüsü**'nden **eğitim yazılımını** indirin;
 1. Aynı menüden *satın alım** işleminizi gerçekleştirin;
 1. İndirdiğiniz yazılımı bilgisayarınıza kurun;
 1. Yazılımı çalıştırın ve açılan ekranda yer alan, size özel oluşturulmuş kodu, altındaki **kopyala** düğmesi yardımıyla kopyalayın ve aynı ekrandaki form bağlantısından ilgili formu doldurun;
