@@ -2,12 +2,35 @@
 title: NVDA Eğitimi
 subtitle: Sıfırdan İleri Düzeye NVDA Öğrenin!
 permalink: nvda
+layout: minimal
 ---
 
 ## Eğitim Menüsü
 
 * [Eğitim Yazılımını İndirin](https://server.borfirbora.com/EduAppNVDA-1.0.exe)
 * [Eğitimi Satın Alın](https://www.shopier.com/ShowProductNew/products.php?id=33046312)
+
+<div class="container mt-5">
+    <ul class="nav nav-tabs" id="nvdaTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="nvda-hakkinda-tab" data-bs-toggle="tab" data-bs-target="#nvda-hakkinda" type="button" role="tab">NVDA Hakkında</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="egitim-hakkinda-tab" data-bs-toggle="tab" data-bs-target="#egitim-hakkinda" type="button" role="tab">NVDA Eğitimi Hakkında</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="kimler-icin-tab" data-bs-toggle="tab" data-bs-target="#kimler-icin" type="button" role="tab">Eğitim Kimler İçin?</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="nvda-mufredati-tab" data-bs-toggle="tab" data-bs-target="#nvda-mufredati" type="button" role="tab">NVDA Eğitim Müfredatı</button>
+        </li>
+                <li class="nav-item" role="presentation">
+            <button class="nav-link" id="satin-alma-tab" data-bs-toggle="tab" data-bs-target="#satin-alma" type="button" role="tab">NVDA Eğitimi Satın Alma</button>
+        </li>
+    </ul>
+
+    <div class="tab-content mt-3" id="nvdaTabContent">
+        <div class="tab-pane fade show active" id="nvda-hakkinda" role="tabpanel">
 
 ## NVDA Hakkında
 
@@ -42,6 +65,9 @@ NVDA, geniş bir erişilebilirlik arayüzü (Accessibility API) desteğine sahip
 
 Bütün bu saydıklarım ve daha fazlasının bizzat deneyimlerimle tescillenmesi, beni bu eğitimi hazırlamaya itti. Şimdi geçelim eğitim detaylarına ve neler var, bir bakalım!
 
+        </div>
+        <div class="tab-pane fade" id="egitim-hakkinda" role="tabpanel">
+
 ## NVDA Eğitimi Hakkında
 
 Sadece bir ekran okuyucu yazılımı öğrenmeyeceğiniz, ekran okuyucusu yazılımıyla yapabileceğiniz bir çok şeyi öğrenebileceğiniz eğitimimize hoş geldiniz!
@@ -49,6 +75,10 @@ Sadece bir ekran okuyucu yazılımı öğrenmeyeceğiniz, ekran okuyucusu yazıl
 Bilgisayarın ne olduğundan başlayacak olan eğitimimiz, NVDA'nın en önemli özelliklerini öğreterek devam edecek. Genel anlamda bulut tabanlı işlemler üzerinden ilerleyecek olan eğitimimiz, NVDA konfigürasyon yönetiminden eklenti yazımına varan geniş bir alanı içine alıyor olacak.
 
 Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve içerisine sürekli yeni konular ve yeni üniteleri dahil etmeye devam edeceğim.
+
+        </div>
+        <div class="tab-pane fade" id="kimler-icin" role="tabpanel">
+            <h2>Eğitim Kimler İçin?</h2>
 
 ## Eğitim Kimler İçin Uygun?
 
@@ -61,6 +91,9 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
 * **"Bilgisayara zaten çok para verdim, bir de ekran okuyucu yazılıma mı para vereceğim?"** diye şikayetlenenler;
 * Okula başlayıp dijital eğitimde kendini ifade etmek isteyenler;
 * Ve daha fazlası.
+
+        </div>
+        <div class="tab-pane fade" id="satin-alma" role="tabpanel">
 
 ## **NVDA Eğitimi** Satın Alma Aşamaları
 
@@ -78,6 +111,9 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
 >
 > * Eğitim yazılımı, her açıldığında kimlik doğrulama işlemi yapabilmek için internet kullanımına ihtiyaç duymaktadır. Yazılım, eğitim yetkisini doğruladığında internet erişimine gerek kalmayacaktır. Müfredat yüklendikten sonra uygulamayı kapatmadığınız sürece internete gerek bulunmamaktadır.
 > * Eğitime yeni bölümler eklendiğine ilişkin bildirim aldığınızda, eğitim yazılımının son hâlini indirip üzerine kurulum yaparak son eğitimleri de elde edebilirsiniz.
+
+        </div>
+        <div class="tab-pane fade" id="nvda-mufredati" role="tabpanel">
 
 ## Eğitim Müfredatı
 
@@ -281,3 +317,7 @@ Aşağıda sizlerle paylaşacağım müfredat, başlangıç görevi görüyor ve
 <li>giriş</li>
 </ol>
 </details>
+
+        </div>
+    </div>
+</div>
