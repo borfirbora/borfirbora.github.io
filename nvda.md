@@ -31,19 +31,29 @@ layout: minimal
 
     <div class="tab-content mt-3" id="nvdaTabContent">
         <div class="tab-pane fade show active" id="nvda-hakkinda" role="tabpanel">
-{% include nvda-1.md %}
+        {% capture nvda_1 %}{% include nvda-1.md %}{% endcapture %}
+{{ nvda_1 | markdownify }}
+
         </div>
         <div class="tab-pane fade" id="egitim-hakkinda" role="tabpanel">
-{% include nvda-2.md %}
+        {% capture nvda_2 %}{% include nvda-2.md %}{% endcapture %}
+{{ nvda_2 | markdownify }}
+
         </div>
         <div class="tab-pane fade" id="kimler-icin" role="tabpanel">
-        {% include nvda-3.md %}
+        {% capture nvda_3 %}{% include nvda-3.md %}{% endcapture %}
+{{ nvda_3 | markdownify }}
+
         </div>
         <div class="tab-pane fade" id="satin-alma" role="tabpanel">
-{% include nvda-4.md %}
+{% capture nvda_4 %}{% include nvda-4.md %}{% endcapture %}
+{{ nvda_4 | markdownify }}
+
         </div>
         <div class="tab-pane fade" id="nvda-mufredati" role="tabpanel">
-{% include nvda-5.md %}
+{% capture nvda_5 %}{% include nvda-5.md %}{% endcapture %}
+{{ nvda_5 | markdownify }}
+
         </div>
     </div>
 </div>
