@@ -10,7 +10,7 @@ layout: minimal
 * [Eğitim Yazılımını İndirin](https://server.borfirbora.com/EduAppNVDA-1.0.exe)
 * [Eğitimi Satın Alın](https://www.shopier.com/ShowProductNew/products.php?id=33046312)
 
-<div class="container mt-5">
+<div class="container mt-5 bf-dark text-white">
     <ul class="nav nav-tabs" id="nvdaTab" role="tablist">
         <li class="nav-item" role="presentation">
             <button class="nav-link active" id="nvda-hakkinda-tab" data-bs-toggle="tab" data-bs-target="#nvda-hakkinda" type="button" role="tab">NVDA Hakkında</button>
@@ -59,4 +59,4 @@ layout: minimal
 </div>
 
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
