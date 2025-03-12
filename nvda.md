@@ -30,27 +30,27 @@ layout: minimal
     </ul>
 
     <div class="tab-content mt-3" id="nvdaTabContent">
-        <div class="tab-pane fade show active" id="nvda-hakkinda" role="tabpanel">
+        <div class="tab-pane fade show active bg-dark text-white" id="nvda-hakkinda" role="tabpanel">
         {% capture nvda_1 %}{% include nvda-1.md %}{% endcapture %}
 {{ nvda_1 | markdownify }}
 
         </div>
-        <div class="tab-pane fade" id="egitim-hakkinda" role="tabpanel">
+        <div class="tab-pane fade bg-dark text-white" id="egitim-hakkinda" role="tabpanel">
         {% capture nvda_2 %}{% include nvda-2.md %}{% endcapture %}
 {{ nvda_2 | markdownify }}
 
         </div>
-        <div class="tab-pane fade" id="kimler-icin" role="tabpanel">
+        <div class="tab-pane fade bg-dark text-white" id="kimler-icin" role="tabpanel">
         {% capture nvda_3 %}{% include nvda-3.md %}{% endcapture %}
 {{ nvda_3 | markdownify }}
 
         </div>
-        <div class="tab-pane fade" id="satin-alma" role="tabpanel">
+        <div class="tab-pane fade bg-dark text-white" id="satin-alma" role="tabpanel">
 {% capture nvda_4 %}{% include nvda-4.md %}{% endcapture %}
 {{ nvda_4 | markdownify }}
 
         </div>
-        <div class="tab-pane fade" id="nvda-mufredati" role="tabpanel">
+        <div class="tab-pane fade bg-dark text-white" id="nvda-mufredati" role="tabpanel">
 {% capture nvda_5 %}{% include nvda-5.md %}{% endcapture %}
 {{ nvda_5 | markdownify }}
 
