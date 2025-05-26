@@ -9,15 +9,23 @@ use-site-title: true
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Kapat"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Yılbaşına Özel Büyük İndirim Sınırlı Sayıda!</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Kapat"><span
+            aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Eğitimlerde İndirimler Var ve Sadece 10 Kişi Yararlanabilecek!</h4>
       </div>
       <div class="modal-body">
-	      <p><b>31 Aralık 2024</b> tarihine kadar, orjinal fiyatı <b>1.500,00₺</b> olan <b>Reaper Eğitimi</b>miz, <b>%33</b> indirimle sadece <b>1.000,00₺</b>! Detaylı bilgi ve satın alma işlemleri için ilgili sayfaya yönlendirilmek ister misiniz?</p>
+        <p><b>6 Haziran</b> tarihine kadar</p>
+        <ul>
+          <li>orjinal fiyatı <b>3.000,00₺</b> olan <b>NVDA Eğitimi</b>, <b>%50</b> indirimle sadece <b>1.500,00₺</b>
+          </li>
+          <li>orjinal fiyatı <b>2.000,00₺</b> olan <b>Reaper Eğitimi</b>, <b>%50</b> indirimle sadece <b>1.000,00₺</b>
+          </li>
+        </ul>
+        <p>Detayları incelemek ister misiniz?</p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">İlgilenmiyorum</button>
         <button type="button" class="btn btn-primary" id="evet">Beni Yönlendir</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">İlgilenmiyorum</button>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -25,26 +33,26 @@ use-site-title: true
 
 <script>
 });
-	/*	var mesaj = "Birlikteliğimizin yayını Yakamoz, radyomuzda başladı!\nDinlemek ve istekte bulunabilmek için ~Tamam~'a dokun!";
-	var s = confirm(mesaj);
-	if(s== true){
-	   window.location.href="http://radio.borfirbora.com/";
-	   } */
+  /*	var mesaj = "Birlikteliğimizin yayını Yakamoz, radyomuzda başladı!\nDinlemek ve istekte bulunabilmek için ~Tamam~'a dokun!";
+  var s = confirm(mesaj);
+  if(s== true){
+     window.location.href="http://radio.borfirbora.com/";
+     } */
 </script>
 
 <div class="posts-list">
-	{% for post in paginator.posts %}
-	<article class="post-preview">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">
-	  {{ post.title }}
-	  </h2>
+      <h2 class="post-title">
+        {{ post.title }}
+      </h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+      {% if post.subtitle %}
+      <h3 class="post-subtitle">
+        {{ post.subtitle }}
+      </h3>
+      {% endif %}
     </a>
 
     <p class="post-meta">
@@ -63,7 +71,7 @@ use-site-title: true
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Devamını&nbsp;Oku]</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Devamını&nbsp;Oku]</a>
         {% endif %}
       </div>
     </div>
@@ -76,20 +84,21 @@ use-site-title: true
       <a href="{{ site.baseurl }}/etiket#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
       {% else %}
-        {{ post.tags | join: ", " }}
+      {{ post.tags | join: ", " }}
       {% endif %}
     </div>
     {% endif %}
 
-   </article>
-    	{% endfor %}
-	</div>
+  </article>
+  {% endfor %}
+</div>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Daha Yeni Yazılar</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Daha Yeni
+      Yazılar</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
