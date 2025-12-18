@@ -1,6 +1,4 @@
 ---
-title: NVDA \+ Bire Bir Özel İndirim Kampanyasından Nasıl Faydalanılır?
-layout: minimal
 ---
 
 # **NVDA \+ Bire Bir Özel İndirim Kampanyasından Nasıl Faydalanılır?**
