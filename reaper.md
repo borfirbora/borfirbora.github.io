@@ -16,9 +16,7 @@ Reaper yazılımını artık anlatmama, onu tanıtmama sanırım gerek  kalmadı
 
 Bu güne kadar kullandığımız bütün ses yazılımları arasından erişilebilirlik, kullanım kolaylığı ve basitlik gibi konularla sıyrılmayı başarmış bu neredeyse doğaüstü yazılımın bir de doğa üstü eğitimi olduğunu da hepiniz biliyorsunuz. Bizzat sizlerden gelen yorumlar bunu söylüyor, ben bir şey söylemiyorum.
 
-Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyor, muhteşem bir haberi sizlerle paylaşmanın mutluluğunu yaşıyorum.
-
-Ödeme konusunda; Papara, İninal gibi önödemeli kartların yanı sıra bazı muhteşem kolaylıklar sağladım, gelin bunlardan  bahsedelim!
+Kursta benimle beraber olanların yaptıkları yorumlar için onlara teşekkür ediyorum.
 
 ## Kredi kartı / banka kartıyla almak isteyenler için
 
@@ -31,20 +29,7 @@ Aşağıda vereceğim bağlantıya tıklayarak ödemenizi güvenli bir altyapı 
 - Ardından **SATIN AL** bağlantısını kullanarak siperiş işlemleri ekranuna ulaşın;
 - Bilgilerinizi ve ödeme ayrıntılarını girerek ister taksitli ister tek çekim ödemenizi tamamlayın.
 
-## EFT/Havale, Papara, İninal yoluyla almak isteyenler için
-
-Her zamanki yollarımız da geçerli tabii ki! Aşağıdaki bilgilerle de kurstan faydalanmaya başlayabilirsiniz.
-
-| alan | Bilgi |
-| :--- | ---: |
-| Alıcı Ad Soyad | Bora FIRLANGEÇ |
-| Alıcı IBAN | TR250001001446450483115006 |
-|Papara Numarası|1466029229|
-|İninal Numarası|1033072068440|
-|Açıklama|Udemy e-posta adresiniz|
-|Tutar|1000,00₺|
-
-> # Not:
+ # Not:
 >
 > Bu sayfa, hiyerarşik başlıklar şeklinde biçimlendirilmiştir. Ekran okuyucunuzun hızlı dolaşım komutlarını kullanarak belge içinde rahatlıkla gezebilirsiniz.
 
