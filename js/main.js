@@ -142,5 +142,5 @@ document.addEventListener('DOMContentLoaded', main.init);
 $("#soru").modal("show");
 
 $("#evet").click(function(){
-window.location.href="https://borfirbora.com/kampanya";
+window.location.href="https://kodyazabil.me/egitim/ai-asistanlik-kampi/";
 });
